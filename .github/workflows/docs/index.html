@@ -1,0 +1,76 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>NJ Sheriff Sale Monitor</title>
+<style>
+:root{--bg:#fff;--fg:#1a1a1a;--mut:#666;--card:#f6f6f4;--line:#ddd;--acc:#0b5cab;--hot:#b3261e}
+@media (prefers-color-scheme:dark){:root{--bg:#161616;--fg:#eee;--mut:#9a9a9a;--card:#222;--line:#383838;--acc:#6fb1ff;--hot:#ff8a80}}
+body{font:15px/1.45 system-ui,sans-serif;background:var(--bg);color:var(--fg);margin:0;padding:16px;max-width:1100px;margin:auto}
+h1{font-size:20px;margin:0 0 4px}.mut{color:var(--mut);font-size:13px}
+.bar{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0}
+select,input{padding:7px 9px;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--fg);font-size:14px}
+input{flex:1;min-width:180px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:8px;padding:12px 14px;margin-bottom:10px}
+.top{display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap}
+.county{font-weight:600}.tag{display:inline-block;margin:4px 6px 4px 0;padding:2px 8px;border-radius:12px;border:1px solid var(--line);font-size:12.5px}
+.tag.hot{border-color:var(--hot);color:var(--hot);font-weight:600}
+a{color:var(--acc)}.det{font-size:13px;color:var(--mut);margin-top:4px;word-break:break-word}
+.err{border-left:4px solid var(--hot);padding:8px 12px;margin:10px 0;background:var(--card)}
+</style>
+</head>
+<body>
+<h1>NJ Sheriff Sale Monitor</h1>
+<div class="mut" id="meta">Loading...</div>
+<div id="errs"></div>
+<div class="bar">
+  <select id="county"><option value="">All counties</option></select>
+  <select id="type">
+    <option value="">All types</option><option value="LAKEFRONT">Lakefront</option>
+    <option value="APARTMENT|4\+ UNIT">4+ units / apartments</option><option value="COMMERCIAL">Commercial</option>
+    <option value="INDUSTRIAL">Industrial</option><option value="VACANT">Vacant land</option>
+    <option value="storage">Storage facility</option><option value="No tax record">Unverified</option>
+  </select>
+  <input id="q" placeholder="Search address, owner, plaintiff...">
+</div>
+<div id="list"></div>
+<script>
+let items=[];
+const $=id=>document.getElementById(id);
+function render(){
+  const c=$("county").value, t=$("type").value, q=$("q").value.toLowerCase();
+  const rx=t?new RegExp(t,"i"):null;
+  const out=items.filter(i=>(!c||i.county===c)&&(!rx||rx.test(i.tags.join(" ")))&&
+    (!q||(i.summary+" "+i.details+" "+i.address).toLowerCase().includes(q)));
+  const list=$("list"); list.textContent="";
+  if(!out.length){list.textContent="No matches yet.";return;}
+  for(const i of out){
+    const d=document.createElement("div");d.className="card";
+    const top=document.createElement("div");top.className="top";
+    const a=document.createElement("span");a.className="county";a.textContent=i.county+" - "+(i.address||"");
+    const f=document.createElement("span");f.className="mut";f.textContent="first seen "+i.first_seen.slice(0,10);
+    top.append(a,f);d.append(top);
+    const tg=document.createElement("div");
+    for(const x of i.tags){const s=document.createElement("span");
+      s.className="tag"+(/LAKEFRONT|APARTMENT|4\+ UNIT/i.test(x)?" hot":"");s.textContent=x;tg.append(s);}
+    d.append(tg);
+    const s=document.createElement("div");s.textContent=i.summary;d.append(s);
+    if(i.details){const e=document.createElement("div");e.className="det";e.textContent=i.details;d.append(e);}
+    const l=document.createElement("div");l.className="det";
+    const k=document.createElement("a");k.href=i.link;k.textContent="Sheriff listing";k.target="_blank";k.rel="noopener";l.append(k);
+    if(i.map){l.append(" | ");const m=document.createElement("a");m.href=i.map;m.textContent="Map";m.target="_blank";m.rel="noopener";l.append(m);}
+    d.append(l);list.append(d);
+  }
+}
+fetch("data.json?"+Date.now()).then(r=>r.json()).then(d=>{
+  items=d.items||[];
+  $("meta").textContent=items.length+" flagged properties. Last run: "+(d.last_run||"never").replace("T"," ")+" UTC. Checked every 4 hours.";
+  [...new Set(items.map(i=>i.county))].sort().forEach(c=>{const o=document.createElement("option");o.value=o.textContent=c;$("county").append(o);});
+  for(const e of d.last_errors||[]){const x=document.createElement("div");x.className="err";x.textContent=e;$("errs").append(x);}
+  render();
+}).catch(()=>{$("meta").textContent="No data yet. Run the workflow once from the Actions tab.";});
+["county","type"].forEach(id=>$(id).addEventListener("change",render));$("q").addEventListener("input",render);
+</script>
+</body>
+</html>
