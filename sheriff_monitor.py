@@ -10,7 +10,7 @@ tax-parcel layer (NJOGIS / MOD-IV) to learn what it really is.
   2. Morris, Sussex: lakefront on Lake Mohawk or Lake Hopatcong
        (parcel boundary vs. the lake shoreline from OpenStreetMap)
 
-Env vars: GMAIL_USER, GMAIL_APP_PASSWORD, NOTIFY_TO (default dmoradgroup@gmail.com)
+Env vars (set as GitHub secrets): GMAIL_USER, GMAIL_APP_PASSWORD, NOTIFY_TO
 """
 import datetime, json, math, os, re, smtplib, sys, time
 from email.message import EmailMessage
@@ -25,6 +25,7 @@ DATA_FILE = Path(__file__).with_name("docs") / "data.json"   # feeds the dashboa
 CIVIL = "https://salesweb.civilview.com/Sales/SalesSearch?countyId={}"
 PARCELS = "https://maps.nj.gov/arcgis/rest/services/Framework/Cadastral/MapServer/0/query"
 OVERPASS = "https://overpass-api.de/api/interpreter"
+DEADLINE = time.time() + float(os.getenv("TIME_BUDGET_MIN", "30")) * 60   # stop cleanly, save progress, resume next run
 HEADERS = {"User-Agent": "Mozilla/5.0 (sheriff-sale-monitor; personal use)"}
 
 SOURCES = [
@@ -56,8 +57,11 @@ ABBR = {"STREET": "ST", "AVENUE": "AVE", "ROAD": "RD", "DRIVE": "DR", "BOULEVARD
         "MOUNT": "MT", "SAINT": "ST"}
 STORAGE_RE = re.compile(r"self[\s-]?storage|mini[\s-]?storage|storage\s+(?:facilit|unit|building|center|warehouse|co\b|corp|llc|inc)|\bstorage\b", re.I)
 
+def out_of_time():
+    return time.time() > DEADLINE
+
 def get(url, **kw):
-    r = requests.get(url, headers=HEADERS, timeout=45, **kw)
+    r = requests.get(url, headers=HEADERS, timeout=25, **kw)
     r.raise_for_status()
     return r
 
@@ -84,7 +88,7 @@ def tok_match(a, b):
 def arcgis(params):
     p = {"f": "json", "outFields": "*", "outSR": 4326}
     p.update(params)
-    r = requests.get(PARCELS, params=p, headers=HEADERS, timeout=60)
+    r = requests.get(PARCELS, params=p, headers=HEADERS, timeout=30)
     r.raise_for_status()
     j = r.json()
     if "error" in j:
@@ -310,16 +314,20 @@ def scrape_civilview(src, seen):
             row = " | ".join(cells)
             entry = {"id": lid, "summary": row, "text": row, "link": link,
                      "address": cells[ia] if 0 <= ia < len(cells) else (cells[-1] if cells else ""), "city": ""}
-            if lid not in seen:
-                try:
-                    entry["text"] = row + " " + BeautifulSoup(get(link).text, "html.parser").get_text(" ", strip=True)
-                except Exception as e:
-                    print(f"  detail fetch failed {link}: {e}", file=sys.stderr)
-                time.sleep(0.7)
+            entry["needs_detail"] = True
             out.append(entry)
     if not out:
         raise RuntimeError("no listings parsed (site layout changed, or list is empty/blocked)")
     return out
+
+def ensure_detail(l):
+    """Fetch the CivilView detail page only for listings we are about to classify."""
+    if l.pop("needs_detail", False):
+        try:
+            l["text"] += " " + BeautifulSoup(get(l["link"]).text, "html.parser").get_text(" ", strip=True)
+        except Exception as e:
+            print(f"  detail fetch failed {l['link']}: {e}", flush=True)
+        time.sleep(0.5)
 
 def scrape_sussex(src, seen):
     soup = BeautifulSoup(get(src["url"]).text, "html.parser")
@@ -355,7 +363,7 @@ def scrape(src, seen):
 def send(subject, body):
     user, pw = os.environ["GMAIL_USER"], os.environ["GMAIL_APP_PASSWORD"]
     msg = EmailMessage()
-    msg["From"], msg["To"], msg["Subject"] = user, os.getenv("NOTIFY_TO", "dmoradgroup@gmail.com"), subject
+    msg["From"], msg["To"], msg["Subject"] = user, os.environ["NOTIFY_TO"], subject
     msg.set_content(body)
     with smtplib.SMTP_SSL("smtp.gmail.com", 465) as s:
         s.login(user, pw)
@@ -392,16 +400,20 @@ def main():
     matches, unverified, errors = [], [], []
     looked_up = failed = 0
     for src in SOURCES:
-        print(f"Checking {src['county']}...")
+        print(f"Checking {src['county']}...", flush=True)
         try:
             listings = scrape(src, seen)
         except Exception as e:
             errors.append(f"{src['county']}: {e}")
             continue
-        for l in listings:
-            if l["id"] in seen:
-                continue
+        new = [l for l in listings if l["id"] not in seen]
+        print(f"  {len(listings)} listings, {len(new)} new", flush=True)
+        for n, l in enumerate(new, 1):
+            if out_of_time():
+                print("  time budget reached - remaining listings will be checked next run", flush=True)
+                break
             try:
+                ensure_detail(l)
                 if src["rules"] == "investment":
                     looked_up += 1
                     tags, details, ok = classify_investment(l, src["county"])
@@ -417,6 +429,9 @@ def main():
             if tags:
                 matches.append((src["county"], tags, l))
             seen.add(l["id"])
+            if n % 25 == 0:
+                print(f"  ...{n}/{len(new)} done", flush=True)
+        STATE_FILE.write_text(json.dumps({"seen": sorted(seen)}, indent=1))
 
     # if most tax lookups failed, the lookup itself is broken: report that instead of flooding you
     if looked_up and failed / looked_up > 0.4:
@@ -425,6 +440,8 @@ def main():
             seen.discard(_l["id"])      # retry these next run
         unverified = []
 
+    if len(errors) > 10:
+        errors = errors[:10] + [f"...and {len(errors) - 10} more"]
     if matches or unverified:
         lines = []
         if matches:
