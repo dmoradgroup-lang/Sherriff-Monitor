@@ -2,19 +2,33 @@ name: sheriff-sale-monitor
 on:
   schedule:
     - cron: "0 */4 * * *"   # every 4 hours
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      test_email:
+        description: "Only send a test email (no scanning)"
+        type: boolean
+        default: false
 permissions:
   contents: write
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 50
+    timeout-minutes: 55
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
       - run: pip install -r requirements.txt
-      - run: python -u sheriff_monitor.py
+      - name: Scan sheriff sales
+        if: ${{ !inputs.test_email }}
+        run: python -u sheriff_monitor.py
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          NOTIFY_TO: ${{ secrets.NOTIFY_TO }}
+      - name: Send test email
+        if: ${{ inputs.test_email }}
+        run: python -u sheriff_monitor.py --test-email
         env:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
