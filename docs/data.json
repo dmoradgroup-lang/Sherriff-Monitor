@@ -1,6 +1,454 @@
 {
  "items": [
   {
+   "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241351628",
+   "county": "Essex",
+   "tags": [
+    "COMMERCIAL (tax class 4A)"
+   ],
+   "summary": "View Details | F-26003997 | 12/1/2026 | UNITED WHOLESALE MORTGAGE, LLC | CORNERSTONE FAMILY GOD TRUST; ET. ALS. | 328 BELLEVILLE AVE BLOOMFIELD NJ 07003",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241351628",
+   "details": "Tax record: class 4A Commercial | 328 BELLEVILLE AVENUE, BLOOMFIELD TWP | owner  | bldg OFFICE + 2 APTS | land 60 X 121 | 0.17 ac | built 1927 | assessed $523,500",
+   "map": "",
+   "address": "328 BELLEVILLE AVE BLOOMFIELD NJ 07003",
+   "first_seen": "2026-11-12T13:35+00:00",
+   "verified": true
+  },
+  {
+   "id": "Bergen:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241365150",
+   "county": "Bergen",
+   "tags": [
+    "COMMERCIAL (tax class 4A)"
+   ],
+   "summary": "View Details | F-26001831 | 11/20/2026 | SOF OLD RIVER LLC | 232 OLD RIVER EDGE LLC, MENG LU, XIAOGANG FU, RUIHONG MENG, AND LI AN | 232 OLD RIVER ROAD EDGEWATER NJ 07020",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241365150",
+   "details": "Tax record: class 4A Commercial | 232 OLD RIVER RD, EDGEWATER BORO | owner  | bldg COMMERCIAL | land 50X50 0.0574 | 0.06 ac | built 2021 | assessed $3,997,000",
+   "map": "",
+   "address": "232 OLD RIVER ROAD EDGEWATER NJ 07020",
+   "first_seen": "2026-11-12T13:35+00:00",
+   "verified": true
+  },
+  {
+   "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241363132",
+   "county": "Hudson",
+   "tags": [
+    "COMMERCIAL (tax class 4A)"
+   ],
+   "summary": "View Details | 20061009 | 11/19/2026 | 402 PACIFIC AVENUE JERSEY CITY NJ 07304 | U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE OR VELOCITY COMMERCIAL CAPITAL LOAN TRUST 2024-1 | GOOD WILL ASSET LIMITED LIABILITY COMPANY, ET AL.",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241363132",
+   "details": "Tax record: class 4A Commercial | 402 PACIFIC AVE., JERSEY CITY CITY | owner  | bldg 2S-B-C-1U-H | land 25X100 | 0.06 ac | built ? | assessed $488,000",
+   "map": "",
+   "address": "402 PACIFIC AVENUE JERSEY CITY NJ 07304",
+   "first_seen": "2026-11-12T13:35+00:00",
+   "verified": true
+  },
+  {
+   "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241363283",
+   "county": "Hudson",
+   "tags": [
+    "POSSIBLE 4+ unit residential (tax record dwelling count 4 - verify)"
+   ],
+   "summary": "View Details | 20063688 | 11/19/2026 | 619 37TH STREET UNION CITY NJ 07087 | MORRIS MOTORS, INC. | JOHANNA VELAZQUEZ",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241363283",
+   "details": "Tax record: class 2 Residential (1-4 family) | 619 37TH ST, UNION CITY CITY | owner  | bldg 2F-4U-H | land 25X75 | 0.04 ac | built 1700 | assessed $744,700",
+   "map": "",
+   "address": "619 37TH STREET UNION CITY NJ 07087",
+   "first_seen": "2026-11-12T13:35+00:00",
+   "verified": true
+  },
+  {
+   "id": "Union:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241394048",
+   "county": "Union",
+   "tags": [
+    "POSSIBLE 4+ unit residential (tax record dwelling count 4 - verify)"
+   ],
+   "summary": "View Details | CH-26002328 | 11/18/2026 | FIFTH THIRD BANK NATIONAL ASSOCIATION | NUNO MIGUEL | 541 E 2ND AVENUE ROSELLE NJ 07203",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241394048",
+   "details": "Tax record: class 2 Residential (1-4 family) | 541 E 2ND AVE, ROSELLE BORO | owner  | bldg 2S-FB-0-4UG-4FH | land 75X100 | 0.17 ac | built 3 | assessed $146,300",
+   "map": "",
+   "address": "541 E 2ND AVENUE ROSELLE NJ 07203",
+   "first_seen": "2026-11-12T13:35+00:00",
+   "verified": true
+  },
+  {
+   "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241351332",
+   "county": "Essex",
+   "tags": [
+    "No tax record found - check manually"
+   ],
+   "summary": "View Details | F-25003311 | 12/1/2026 | WELLS FARGO BANK, NATIONAL ASSOCIATION, AS TRUSTEE SECURITZED ASSET BACKED RECEIVABLES LLC TRUST 2006-HE1 MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2006-HE1 | MACKENZY ANTOINE A/K/A MACKENZY J. ANTOINE; ET. ALS. | 548-550 SANDFORD AVE NEWARK NJ 07106",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241351332",
+   "details": "",
+   "map": "",
+   "address": "548-550 SANDFORD AVE NEWARK NJ 07106",
+   "first_seen": "2026-11-12T13:35+00:00",
+   "verified": false
+  },
+  {
+   "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241351336",
+   "county": "Essex",
+   "tags": [
+    "No tax record found - check manually"
+   ],
+   "summary": "View Details | F-25003343 | 12/1/2026 | NEW JERSEY HOUSING AND MORTGAGE FINANCE AGENCY | VICTOIRE JEAN-CHARLES, HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, HER, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; ET. ALS. | 290-292 17TH AVE NEWARK NJ 07103",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241351336",
+   "details": "",
+   "map": "",
+   "address": "290-292 17TH AVE NEWARK NJ 07103",
+   "first_seen": "2026-11-12T13:35+00:00",
+   "verified": false
+  },
+  {
+   "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241351391",
+   "county": "Essex",
+   "tags": [
+    "No tax record found - check manually"
+   ],
+   "summary": "View Details | F-26000485 | 12/1/2026 | THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK AS TRUSTEE FOR THE CERTIFICATEHOLDERS CWABS, INC., ASSET BACKED CERTIFICATES, SERIES 2005-BC1, | DANIEL MANU, ET. ALS | 9 BACHMAN PL IRVINGTON NJ 07111",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241351391",
+   "details": "",
+   "map": "",
+   "address": "9 BACHMAN PL IRVINGTON NJ 07111",
+   "first_seen": "2026-11-12T13:35+00:00",
+   "verified": false
+  },
+  {
+   "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241351542",
+   "county": "Essex",
+   "tags": [
+    "No tax record found - check manually"
+   ],
+   "summary": "View Details | F-26003017 | 12/1/2026 | U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE FOR VELOCITY COMMERCIAL CAPITAL LOAN TRUST 2023-2 | MASTERS MAKIT HOME REALTY, LIIMITED LIABILITY COMPANY; ET. AL. | 108 SOUTH DURAND PL IRVINGTON NJ 07111",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241351542",
+   "details": "",
+   "map": "",
+   "address": "108 SOUTH DURAND PL IRVINGTON NJ 07111",
+   "first_seen": "2026-11-12T13:35+00:00",
+   "verified": false
+  },
+  {
+   "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241351587",
+   "county": "Essex",
+   "tags": [
+    "No tax record found - check manually"
+   ],
+   "summary": "View Details | F-26003524 | 12/1/2026 | U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST | GLORIA OLIVERA; ET. AL. | 213-215 LINDEN AVE IRVINGTON NJ 07111",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241351587",
+   "details": "",
+   "map": "",
+   "address": "213-215 LINDEN AVE IRVINGTON NJ 07111",
+   "first_seen": "2026-11-12T13:35+00:00",
+   "verified": false
+  },
+  {
+   "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241351616",
+   "county": "Essex",
+   "tags": [
+    "No tax record found - check manually"
+   ],
+   "summary": "View Details | F-26003930 | 12/1/2026 | ROCKET MORTGAGE, LLC. | TAUREAN JOVON JOHNSON A/K/A TAUREAN JOHNSON; ET AL. | 225-227 ALEXANDER STREET NEWARK NJ 07106",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241351616",
+   "details": "",
+   "map": "",
+   "address": "225-227 ALEXANDER STREET NEWARK NJ 07106",
+   "first_seen": "2026-11-12T13:35+00:00",
+   "verified": false
+  },
+  {
+   "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241351626",
+   "county": "Essex",
+   "tags": [
+    "No tax record found - check manually"
+   ],
+   "summary": "View Details | F-26003987 | 12/1/2026 | U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE OF LSF9 MASTER PARTICIPATION TRUST | RAYMOND RATLIFF A/K/A RAY RATLIFF; ET. ALS. | 140-142 CAROLINA AVE IRVINGTON NJ 07111",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241351626",
+   "details": "",
+   "map": "",
+   "address": "140-142 CAROLINA AVE IRVINGTON NJ 07111",
+   "first_seen": "2026-11-12T13:35+00:00",
+   "verified": false
+  },
+  {
+   "id": "Bergen:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241365158",
+   "county": "Bergen",
+   "tags": [
+    "No tax record found - check manually"
+   ],
+   "summary": "View Details | F-26001962 | 11/20/2026 | SELENE FINANCE, LP | ANTONIO BROOKS, MRS. BROOKS SPOUSE OF ANTONIO BROOKS, KIM BULLARD, ET AL | 25 TERRACE AVENUE MAYWOOD NJ 07607",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241365158",
+   "details": "",
+   "map": "",
+   "address": "25 TERRACE AVENUE MAYWOOD NJ 07607",
+   "first_seen": "2026-11-12T13:35+00:00",
+   "verified": false
+  },
+  {
+   "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241376274",
+   "county": "Passaic",
+   "tags": [
+    "No tax record found - check manually"
+   ],
+   "summary": "View Details | F-25000489 | 11/17/2026 | DEUTSCHE BANK NATIONAL TRUST COMPANY, AS INDENTURE TRUSTEE FOR AMERICAN HOME MORTGAGE INVESTMENT TRUST 2007-1 | JOSE TAVAREZ A/K/A JOSE TAVARES A/K/A JOSE PENA; JUAN GALVAN; MRS. GALVAN, SPOUSE OF JUAN GALVAN; ALERT AMBULANCE SERVICE; UNITED STATES OF AMERICA | 157-159 MADISON Avenue Paterson NJ 07524",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241376274",
+   "details": "",
+   "map": "",
+   "address": "157-159 MADISON Avenue Paterson NJ 07524",
+   "first_seen": "2026-11-12T13:35+00:00",
+   "verified": false
+  },
+  {
+   "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241376269",
+   "county": "Passaic",
+   "tags": [
+    "No tax record found - check manually"
+   ],
+   "summary": "View Details | F-25000489 | 11/17/2026 | DEUTSCHE BANK NATIONAL TRUST COMPANY, AS INDENTURE TRUSTEE FOR AMERICAN HOME MORTGAGE INVESTMENT TRUST 2007-1 | JOSE TAVAREZ A/K/A JOSE TAVARES A/K/A JOSE PENA; JUAN GALVAN; MRS. GALVAN, SPOUSE OF JUAN GALVAN; ALERT AMBULANCE SERVICE; UNITED STATES OF AMERICA | 153-155 MADISON Avenue Paterson NJ 07524",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241376269",
+   "details": "",
+   "map": "",
+   "address": "153-155 MADISON Avenue Paterson NJ 07524",
+   "first_seen": "2026-11-12T13:35+00:00",
+   "verified": false
+  },
+  {
+   "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241376639",
+   "county": "Passaic",
+   "tags": [
+    "No tax record found - check manually"
+   ],
+   "summary": "View Details | F-26000240 | 11/17/2026 | FEDERAL HOME LOAN MORTGAGE CORPORATION AS TRUSTEE FOR THE BENEFIT OF THE FREDDIE MAC SEASONED LOANS STRUCTURED TRANSACTION TRUST SERIES 2020-3 | ROBERT CHATMAN, ET ALS. | 405-407 EAST 29TH Street 407 EAST 29TH STREET Paterson NJ 07514",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241376639",
+   "details": "",
+   "map": "",
+   "address": "405-407 EAST 29TH Street 407 EAST 29TH STREET Paterson NJ 07514",
+   "first_seen": "2026-11-12T13:35+00:00",
+   "verified": false
+  },
+  {
+   "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241376779",
+   "county": "Passaic",
+   "tags": [
+    "No tax record found - check manually"
+   ],
+   "summary": "View Details | F-26000988 | 11/17/2026 | PEOPLES SECURITY BANK & TRUST COMPANY | YEC CONSULTING, LLC | 680 BROADWAY UNIT 1A Paterson NJ 07515",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241376779",
+   "details": "",
+   "map": "",
+   "address": "680 BROADWAY UNIT 1A Paterson NJ 07515",
+   "first_seen": "2026-11-12T13:35+00:00",
+   "verified": false
+  },
+  {
+   "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241376962",
+   "county": "Passaic",
+   "tags": [
+    "No tax record found - check manually"
+   ],
+   "summary": "View Details | F-26001338 | 11/17/2026 | U.S. BANK TRUST NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST | DOMINICK PASSIONE, ET ALS | 353-359 Marshall Street Also known as 353-359 Marshall Street Unit 1d, Also known as 353-359 Marshall Street Unit 4 Paterson NJ 07503",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241376962",
+   "details": "",
+   "map": "",
+   "address": "353-359 Marshall Street Also known as 353-359 Marshall Street Unit 1d, Also known as 353-359 Marshall Street Unit 4 Paterson NJ 07503",
+   "first_seen": "2026-11-12T13:35+00:00",
+   "verified": false
+  },
+  {
+   "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241376796",
+   "county": "Passaic",
+   "tags": [
+    "No tax record found - check manually"
+   ],
+   "summary": "View Details | F-26001049 | 12/1/2026 | JP MORGAN CHASE BANK NATIONAL ASSOCIATION | ROSA VIRGINIA QUATROCCHI ET ALS | 111-113 Elberon Avenue Paterson NJ 07502",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241376796",
+   "details": "",
+   "map": "",
+   "address": "111-113 Elberon Avenue Paterson NJ 07502",
+   "first_seen": "2026-11-12T13:35+00:00",
+   "verified": false
+  },
+  {
+   "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241363098",
+   "county": "Hudson",
+   "tags": [
+    "No tax record found - check manually"
+   ],
+   "summary": "View Details | 20056226 | 11/19/2026 | 832-838 AVENUE A A/K/A 917 KENNEDY BOULEVARD BAYONNE NJ 07002 | WILMINGTON SAVINGS FUND SOCIETY, FSB, AS OWNER TRUSTEE OF THE RESIDENTIAL CREDIT OPPORTUNITIES TRUST VIII-A | PETER J. CRESCI; MRS PETER J. CRESCI, SPOUSE OF PETER J. CRESCI; JENNIFER L. CRESCI; JPMORGAN CHASE BANK, NATIONAL ASSOCIATION SBM BANK ONE, N.A.; STATE OF NEW JERSEY",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241363098",
+   "details": "",
+   "map": "",
+   "address": "832-838 AVENUE A A/K/A 917 KENNEDY BOULEVARD BAYONNE NJ 07002",
+   "first_seen": "2026-11-12T13:35+00:00",
+   "verified": false
+  },
+  {
+   "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241363136",
+   "county": "Hudson",
+   "tags": [
+    "No tax record found - check manually"
+   ],
+   "summary": "View Details | 20061312 | 11/19/2026 | 22 BRIGHT STREET UNIT 1 JERSEY CITY NJ 07302 | LOAN FUNDER LLC, SERIES 68179 | 22 BRIGHT ST LLC, ISRAEL WIZNITZER AND SHLOMO MENDLOWITZ",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241363136",
+   "details": "",
+   "map": "",
+   "address": "22 BRIGHT STREET UNIT 1 JERSEY CITY NJ 07302",
+   "first_seen": "2026-11-12T13:35+00:00",
+   "verified": false
+  },
+  {
+   "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241363144",
+   "county": "Hudson",
+   "tags": [
+    "No tax record found - check manually"
+   ],
+   "summary": "View Details | 20061327 | 11/19/2026 | 7 FULTON STREET WEEHAWKEN NJ 07086 | U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE ON BEHALF OF FINANCE OF AMERICA SELECT MASTER TRUST | THOMAS J. WALL, ESQ., EXECUTOR OF THE ESTATE OF RENE F. RACLI, ET AL.",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241363144",
+   "details": "",
+   "map": "",
+   "address": "7 FULTON STREET WEEHAWKEN NJ 07086",
+   "first_seen": "2026-11-12T13:35+00:00",
+   "verified": false
+  },
+  {
+   "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241363255",
+   "county": "Hudson",
+   "tags": [
+    "No tax record found - check manually"
+   ],
+   "summary": "View Details | 20063389 | 11/19/2026 | 71 MARTIN LUTHER KING DRIVE JERSEY CITY NJ 07305 | WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VERUS SECURITIATION TRUST 2021-7 | 71-309 JACKSON HILL LLC; THOMAS TERRELL HURLEY; HANRAN HOMES LLC",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241363255",
+   "details": "",
+   "map": "",
+   "address": "71 MARTIN LUTHER KING DRIVE JERSEY CITY NJ 07305",
+   "first_seen": "2026-11-12T13:35+00:00",
+   "verified": false
+  },
+  {
+   "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241363280",
+   "county": "Hudson",
+   "tags": [
+    "No tax record found - check manually"
+   ],
+   "summary": "View Details | 20063662 | 11/19/2026 | 332 5TH STREET JERSEY CITY NJ 07302 | U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE ON BEHALF OF FINANCE OF AMERICA SELECT MASTER TRUST | HOWELL WAYANS, HIS/HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, HERS, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; DIEDRA WAYANS-BENSON, INDIVIDUALLY AND AS ADMINISTRATRIX OF THE ESTATE OF HOWELL WAYANS; MARLON WAYANS; KEENEN IVORY WAYANS; MRS. WAYANS, SPOUSE OF KEENEN IVORY WAYANS; DAMON WAYANS; KIMBERLY WAYANS; ELVIRA WAYANS; MRS. WAYANS, SPOUSE OF ELVIRA WAYANS; NADIA WAYANS; MR. WAYANS, SPOUSE OF NADIA WAYANS; DEVONNE CHAUNTE WAYANS; MR. WAYANS, SPOUSE OF DEVONNE CHAUNTE WAYANS; SHAWN WAYANS; DWAYNE WAYANS HIS/HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, HERS, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; DWAYNE WAYANS, JR.; CARLA WAYANS; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241363280",
+   "details": "",
+   "map": "",
+   "address": "332 5TH STREET JERSEY CITY NJ 07302",
+   "first_seen": "2026-11-12T13:35+00:00",
+   "verified": false
+  },
+  {
+   "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241363351",
+   "county": "Hudson",
+   "tags": [
+    "No tax record found - check manually"
+   ],
+   "summary": "View Details | 20064104 | 11/19/2026 | 52 MCADOO AVENUE JERSEY CITY NJ 07305 | U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE, AS SUCCESSOR-IN-INTEREST TRUSTEE TO LASALLE BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR BEAR STEARNS ASSET BACKED SECURITIES I TRUST 2006-HE10, ASSET-BACKED CERTIFICATES SERIES 2006-HE10 | LYDIA R. BANTILAN, ET AL",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241363351",
+   "details": "",
+   "map": "",
+   "address": "52 MCADOO AVENUE JERSEY CITY NJ 07305",
+   "first_seen": "2026-11-12T13:35+00:00",
+   "verified": false
+  },
+  {
+   "id": "Union:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241393681",
+   "county": "Union",
+   "tags": [
+    "No tax record found - check manually"
+   ],
+   "summary": "View Details | CH-24000873 | 11/18/2026 | NEWREZ LLC D/B/A SHELLPOINT MORTGAGE SERVICING | CHERYL HARRIS; WILMA DELAINE; THE SECRETARY OF HOUSING & URBAN DEVELOPMENT; UNITED STATES OF AMERICA; OCEAN CO BD SOCIAL SERVS; KATHLEEN M LEE; BOARDWALK REGENCY CORP; STATE OF NEW JERSEY | 940 KNOLLWOOD COURT PLAINFIELD NJ 07060",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241393681",
+   "details": "",
+   "map": "",
+   "address": "940 KNOLLWOOD COURT PLAINFIELD NJ 07060",
+   "first_seen": "2026-11-12T13:35+00:00",
+   "verified": false
+  },
+  {
+   "id": "Union:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241393691",
+   "county": "Union",
+   "tags": [
+    "No tax record found - check manually"
+   ],
+   "summary": "View Details | CH-24001766 | 11/18/2026 | U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR STRUCTURED ASSET SECURITIES CORPORATION MORTGAGE LOAN TRUST MORTGAGE PASS-THROUGH CERTIFICATES SERIES 2006-BC2 | NAZLY PRADO A/K/A NAZLY HELEN PRADO A/K/A NAZLY H. PRADO; LUISM. PRADO A/K/A LUIS PRADO; AND MIDLAND FUNDING LLC | 134-136 MORRISTOWN ROAD ELIZABETH NJ 07208",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241393691",
+   "details": "",
+   "map": "",
+   "address": "134-136 MORRISTOWN ROAD ELIZABETH NJ 07208",
+   "first_seen": "2026-11-12T13:35+00:00",
+   "verified": false
+  },
+  {
+   "id": "Union:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241393748",
+   "county": "Union",
+   "tags": [
+    "No tax record found - check manually"
+   ],
+   "summary": "View Details | CH-25002059 | 11/18/2026 | TEAM 3 FINANCIAL, LLC | 125 BERCKMAN ST LLC; NAYANA PATEL; UNKNOWN TENANTS OR OCCUPANTS 1-10; and JAMES E. SHELTON | 111-13 SUMNER AVENUE PLAINFIELD NJ 07062",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241393748",
+   "details": "",
+   "map": "",
+   "address": "111-13 SUMNER AVENUE PLAINFIELD NJ 07062",
+   "first_seen": "2026-11-12T13:35+00:00",
+   "verified": false
+  },
+  {
+   "id": "Union:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241394005",
+   "county": "Union",
+   "tags": [
+    "No tax record found - check manually"
+   ],
+   "summary": "View Details | CH-26001835 | 11/18/2026 | REVERSE MORTGAGE FUNDING LLC | ETHEL JUANITA FOLKES AND UNITED STATES OF AMERICA ACTING ON BEHALF OF THE SECRETARY OF HOUSING AND URBAN DEVELOPMENT | 1325 PUTNAM AVENUE PLAINFIELD NJ 07060",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241394005",
+   "details": "",
+   "map": "",
+   "address": "1325 PUTNAM AVENUE PLAINFIELD NJ 07060",
+   "first_seen": "2026-11-12T13:35+00:00",
+   "verified": false
+  },
+  {
+   "id": "Union:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241394008",
+   "county": "Union",
+   "tags": [
+    "No tax record found - check manually"
+   ],
+   "summary": "View Details | CH-26001881 | 11/18/2026 | PNC BANK, NATIONAL ASSOCIATION | KEMPER LEE MITCHELL, W/H; LEONARD MITCHELL | 667-73 W 7TH STREET AKA 669 7TH STREET PLAINFIELD NJ 07060",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241394008",
+   "details": "",
+   "map": "",
+   "address": "667-73 W 7TH STREET AKA 669 7TH STREET PLAINFIELD NJ 07060",
+   "first_seen": "2026-11-12T13:35+00:00",
+   "verified": false
+  },
+  {
+   "id": "Union:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241394012",
+   "county": "Union",
+   "tags": [
+    "No tax record found - check manually"
+   ],
+   "summary": "View Details | CH-26001911 | 11/18/2026 | ATHENE ANNUITY AND LIFE COMPANY | YVETTE EDWARDS; LENNY EDWARDS; TESLA, INC.; CAPITAL ONE, SUCCESSORS TO HSBC BANK NEVADA | 1633-1658 GRIER AVENUE LINDEN NJ 07036",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241394012",
+   "details": "",
+   "map": "",
+   "address": "1633-1658 GRIER AVENUE LINDEN NJ 07036",
+   "first_seen": "2026-11-12T13:35+00:00",
+   "verified": false
+  },
+  {
+   "id": "Union:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241393747",
+   "county": "Union",
+   "tags": [
+    "No tax record found - check manually"
+   ],
+   "summary": "View Details | CH-25002036 | 12/2/2026 | TRYON STREET ACQUISITION TRUST I | PPS REALTY 800 GEORGE ST. LLC, STEFANO APISA, ALVARO PADRON, AND STATE OF NEW JERSEY | 800-06 GEORGE STREET PLAINFIELD NJ 07062",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241393747",
+   "details": "",
+   "map": "",
+   "address": "800-06 GEORGE STREET PLAINFIELD NJ 07062",
+   "first_seen": "2026-11-12T13:35+00:00",
+   "verified": false
+  },
+  {
    "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2241066115",
    "county": "Essex",
    "tags": [
@@ -2213,13 +2661,17 @@
    "verified": false
   }
  ],
- "last_run": "2026-11-12T09:38+00:00",
+ "last_run": "2026-11-12T13:35+00:00",
  "last_errors": [
   "Morris 22 Little Doe Run Jefferson NJ 07438: Expecting value: line 1 column 1 (char 0)",
   "Morris 25 Ellen Road Jefferson NJ 07849: Expecting value: line 1 column 1 (char 0)",
   "Morris 627 Dorothy Lane Landing NJ 07850: Expecting value: line 1 column 1 (char 0)",
   "Morris 25 1st Street Roxbury NJ 07847: Expecting value: line 1 column 1 (char 0)",
-  "Morris 4 Stuart Lane Jefferson NJ 07438: HTTPSConnectionPool(host='overpass-api.de', port=443): Max retries exceeded with url: /api/interpreter (Caused by NewConnectionError(\"HTTPSConnection(host='overpass-api.de', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
-  "Sussex 36 Skidmore Trail: HTTPSConnectionPool(host='overpass-api.de', port=443): Max retries exceeded with url: /api/interpreter (Caused by NewConnectionError(\"HTTPSConnection(host='overpass-api.de', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))"
+  "Morris 4 Stuart Lane Jefferson NJ 07438: Expecting value: line 1 column 1 (char 0)",
+  "Morris 9 Nalron Drive Roxbury NJ: Expecting value: line 1 column 1 (char 0)",
+  "Morris 1 James Drive Mount Arlington NJ 07856: Expecting value: line 1 column 1 (char 0)",
+  "Morris 4 Alps Lane Lake Hopatcong NJ 07849: Expecting value: line 1 column 1 (char 0)",
+  "Morris 16 Commodore Drive Jefferson NJ 07849: Expecting value: line 1 column 1 (char 0)",
+  "Sussex 36 Skidmore Trail: Expecting value: line 1 column 1 (char 0)"
  ]
 }
