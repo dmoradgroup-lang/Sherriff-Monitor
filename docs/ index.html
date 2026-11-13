@@ -7,7 +7,7 @@
 <style>
 :root{--bg:#fff;--fg:#1a1a1a;--mut:#666;--card:#f6f6f4;--line:#ddd;--acc:#0b5cab;--hot:#b3261e}
 @media (prefers-color-scheme:dark){:root{--bg:#161616;--fg:#eee;--mut:#9a9a9a;--card:#222;--line:#383838;--acc:#6fb1ff;--hot:#ff8a80}}
-body{font:15px/1.45 system-ui,sans-serif;background:var(--bg);color:var(--fg);margin:0;padding:16px;max-width:1100px;margin:auto}
+body{font:15px/1.45 system-ui,sans-serif;background:var(--bg);color:var(--fg);margin:0 auto;padding:16px;max-width:1100px}
 h1{font-size:20px;margin:0 0 4px}.mut{color:var(--mut);font-size:13px}
 .bar{display:flex;flex-wrap:wrap;gap:8px;margin:14px 0}
 select,input{padding:7px 9px;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--fg);font-size:14px}
@@ -16,6 +16,7 @@ input{flex:1;min-width:180px}
 .top{display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap}
 .county{font-weight:600}.tag{display:inline-block;margin:4px 6px 4px 0;padding:2px 8px;border-radius:12px;border:1px solid var(--line);font-size:12.5px}
 .tag.hot{border-color:var(--hot);color:var(--hot);font-weight:600}
+.amt{margin:4px 0;font-size:15px}
 a{color:var(--acc)}.det{font-size:13px;color:var(--mut);margin-top:4px;word-break:break-word}
 .err{border-left:4px solid var(--hot);padding:8px 12px;margin:10px 0;background:var(--card)}
 </style>
@@ -30,47 +31,60 @@ a{color:var(--acc)}.det{font-size:13px;color:var(--mut);margin-top:4px;word-brea
     <option value="">All types</option><option value="LAKEFRONT">Lakefront</option>
     <option value="APARTMENT|4\+ UNIT">4+ units / apartments</option><option value="COMMERCIAL">Commercial</option>
     <option value="INDUSTRIAL">Industrial</option><option value="VACANT">Vacant land</option>
-    <option value="storage">Storage facility</option><option value="No tax record">Unverified</option>
+    <option value="storage">Storage facility</option><option value="Type unknown|could not be located">Unverified</option>
   </select>
-  <input id="q" placeholder="Search address, owner, plaintiff...">
+  <select id="sort"><option value="new">Newest first</option><option value="upset">Lowest upset first</option></select>
+  <input id="q" placeholder="Search address, owner...">
 </div>
 <div id="list"></div>
 <script>
 let items=[];
 const $=id=>document.getElementById(id);
+const money=x=>x==null?null:"$"+Math.round(x).toLocaleString("en-US");
+function el(t,c,txt){const e=document.createElement(t);if(c)e.className=c;if(txt!=null)e.textContent=txt;return e;}
+function link(href,txt){const a=el("a",null,txt);a.href=href;a.target="_blank";a.rel="noopener";return a;}
 function render(){
-  const c=$("county").value, t=$("type").value, q=$("q").value.toLowerCase();
-  const rx=t?new RegExp(t,"i"):null;
-  const out=items.filter(i=>(!c||i.county===c)&&(!rx||rx.test(i.tags.join(" ")))&&
-    (!q||(i.summary+" "+i.details+" "+i.address).toLowerCase().includes(q)));
-  const list=$("list"); list.textContent="";
+  const c=$("county").value,t=$("type").value,q=$("q").value.toLowerCase(),rx=t?new RegExp(t,"i"):null;
+  let out=items.filter(i=>(!c||i.county===c)&&(!rx||rx.test(i.tags.join(" ")))&&
+    (!q||((i.summary||"")+" "+(i.details||"")+" "+(i.address||"")).toLowerCase().includes(q)));
+  if($("sort").value==="upset")out.sort((a,b)=>(a.upset??1e12)-(b.upset??1e12));
+  const list=$("list");list.textContent="";
   if(!out.length){list.textContent="No matches yet.";return;}
   for(const i of out){
-    const d=document.createElement("div");d.className="card";
-    const top=document.createElement("div");top.className="top";
-    const a=document.createElement("span");a.className="county";a.textContent=i.county+" - "+(i.address||"");
-    const f=document.createElement("span");f.className="mut";f.textContent="first seen "+i.first_seen.slice(0,10);
-    top.append(a,f);d.append(top);
-    const tg=document.createElement("div");
-    for(const x of i.tags){const s=document.createElement("span");
-      s.className="tag"+(/LAKEFRONT|APARTMENT|4\+ UNIT/i.test(x)?" hot":"");s.textContent=x;tg.append(s);}
+    const d=el("div","card"),top=el("div","top");
+    top.append(el("span","county",i.county+" - "+(i.address||"")),el("span","mut","first seen "+i.first_seen.slice(0,10)));
+    d.append(top);
+    const tg=el("div");
+    for(const x of i.tags)tg.append(el("span","tag"+(/LAKEFRONT|APARTMENT|4\+ UNIT/i.test(x)?" hot":""),x));
     d.append(tg);
-    const s=document.createElement("div");s.textContent=i.summary;d.append(s);
-    if(i.details){const e=document.createElement("div");e.className="det";e.textContent=i.details;d.append(e);}
-    const l=document.createElement("div");l.className="det";
-    const k=document.createElement("a");k.href=i.link;k.textContent="Sheriff listing";k.target="_blank";k.rel="noopener";l.append(k);
-    if(i.map){l.append(" | ");const m=document.createElement("a");m.href=i.map;m.textContent="Map";m.target="_blank";m.rel="noopener";l.append(m);}
+    const a=el("div","amt");
+    const parts=[];
+    if(i.upset!=null){const b=el("b",null,"Upset*: "+money(i.upset));parts.push(b);}
+    if(i.judgment!=null){const b=el("b",null,"Judgment: "+money(i.judgment));parts.push(b);}
+    if(!parts.length)a.textContent="Upset/judgment: not found on listing";
+    parts.forEach((p,k)=>{if(k)a.append("  |  ");a.append(p);});
+    if(i.est_value)a.append("   Est. value ~"+money(i.est_value));
+    d.append(a);
+    if(i.value_note)d.append(el("div","det","Value basis: "+i.value_note));
+    if(i.details)d.append(el("div","det",i.details));
+    const l=el("div","det");
+    l.append(link(i.link,"Sheriff listing"));
+    const q2=encodeURIComponent(i.address||"");
+    l.append(" | ",link("https://www.zillow.com/homes/"+q2+"_rb/","Zillow")," | ",link("https://www.redfin.com/search?q="+q2,"Redfin")," | ",
+             link("https://www.google.com/search?q="+q2+"+for+sale","Google")," (check if under contract)");
+    if(i.map)l.append(" | ",link(i.map,"Map"));
     d.append(l);list.append(d);
   }
 }
 fetch("data.json?"+Date.now()).then(r=>r.json()).then(d=>{
   items=d.items||[];
-  $("meta").textContent=items.length+" flagged properties. Last run: "+(d.last_run||"never").replace("T"," ")+" UTC. Checked every 4 hours.";
-  [...new Set(items.map(i=>i.county))].sort().forEach(c=>{const o=document.createElement("option");o.value=o.textContent=c;$("county").append(o);});
-  for(const e of d.last_errors||[]){const x=document.createElement("div");x.className="err";x.textContent=e;$("errs").append(x);}
+  const ex=Object.entries(d.excluded_last_run||{}).map(([k,v])=>v+" "+k).join(", ");
+  $("meta").textContent=items.length+" properties. Last run: "+(d.last_run||"never").replace("T"," ")+" UTC."+(ex?" Hidden last run: "+ex+".":"");
+  [...new Set(items.map(i=>i.county))].sort().forEach(c=>{const o=el("option",null,c);o.value=c;$("county").append(o);});
+  for(const e of d.last_errors||[])$("errs").append(el("div","err",e));
   render();
 }).catch(()=>{$("meta").textContent="No data yet. Run the workflow once from the Actions tab.";});
-["county","type"].forEach(id=>$(id).addEventListener("change",render));$("q").addEventListener("input",render);
+["county","type","sort"].forEach(id=>$(id).addEventListener("change",render));$("q").addEventListener("input",render);
 </script>
 </body>
 </html>
