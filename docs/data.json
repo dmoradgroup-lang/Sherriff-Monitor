@@ -1,6 +1,1266 @@
 {
  "items": [
   {
+   "id": "Union:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246644570",
+   "county": "Union",
+   "tags": [
+    "COMMERCIAL (tax class 4A)"
+   ],
+   "address": "211 UNION AVENUE SCOTCH PLAINS NJ 07076",
+   "summary": "View Details | CH-26001492 | 12/2/2026 | WELLS FARGO BANK, N.A. | CARMEN PONZIO, DECEASED, HIS HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES, AND HIS, THEIR, OR ANY OF THEIR SUCCESSORS IN RIGHT, TITTLE AND INTEREST; NICHOLAS PONZIO; ARLENE T. PONZIO; ANDREW PONZIO; STATE OF NEW JERSEY; UNITED STATES OF AMERICA | 211 UNION AVENUE SCOTCH PLAINS NJ 07076",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246644570",
+   "details": "Tax record: class 4A Commercial | 211 UNION AVE, SCOTCH PLAINS TWP | owner ? | bldg 2S F A 2APTS | land 125X100 | 0.29 ac | built 1900",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:37+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
+   "id": "Union:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246644627",
+   "county": "Union",
+   "tags": [
+    "COMMERCIAL (tax class 4A)"
+   ],
+   "address": "1945 ROUTE 22 WEST A/K/A 1945 ROUTE 22 UNION NJ 07083",
+   "summary": "View Details | CH-26002187 | 12/2/2026 | TD BANK, N.A. | TNR HOLDINGS LLC; ARTEMIS OB/GYN LLC; BIRTH CENTER OF NEW JERSEY LLC; NICOLA PEMBERTON AND STATE OF NEW JERSEY | 1945 ROUTE 22 WEST A/K/A 1945 ROUTE 22 UNION NJ 07083",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246644627",
+   "details": "Tax record: class 4A Commercial | 1945 ROUTE 22,WEST, UNION TWP | owner ? | bldg 1SB | land 0.663 ACRES | 0.66 ac | built ?",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:37+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
+   "id": "Union:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246644651",
+   "county": "Union",
+   "tags": [
+    "Type unknown - no tax record found (check manually)"
+   ],
+   "address": "906 DEWITT STREET LINDEN NJ 07036",
+   "summary": "View Details | CH-26002435 | 12/2/2026 | WILMINGTON SAVING FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE ON BEHALF OF HOMES 2024-NQM2 TRUST | JZFRIED LINDEN LLC, A NEW YORK LIMITED LIABILITY COMPANY, JOEL FRIEDMAN  A/K/A JOEL FREIDMAN, INDIVIDUALLY AND AS MEMBER OF JZFRIED LINDEN LLC, A NEW YORK LIMITED LIABILITY COMPANY | 906 DEWITT STREET LINDEN NJ 07036",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246644651",
+   "details": "",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "no tax record",
+   "first_seen": "2026-11-15T16:37+00:00",
+   "emailed": false,
+   "verified": false,
+   "notified_unverified": true
+  },
+  {
+   "id": "Union:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246644642",
+   "county": "Union",
+   "tags": [
+    "POSSIBLE 4+ unit residential (tax record dwelling count 4 - verify)"
+   ],
+   "address": "541 E 2ND AVENUE ROSELLE NJ 07203",
+   "summary": "View Details | CH-26002328 | 1/6/2027 | FIFTH THIRD BANK NATIONAL ASSOCIATION | NUNO MIGUEL | 541 E 2ND AVENUE ROSELLE NJ 07203",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246644642",
+   "details": "Tax record: class 2 Residential (1-4 family) | 541 E 2ND AVE, ROSELLE BORO | owner ? | bldg 2S-FB-0-4UG-4FH | land 75X100 | 0.17 ac | built 3",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:37+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
+   "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246607894",
+   "county": "Hudson",
+   "tags": [
+    "Type unknown - no tax record found (check manually)"
+   ],
+   "address": "52 MCADOO AVENUE JERSEY CITY NJ 07305",
+   "summary": "View Details | 20064104 | 11/19/2026 | 52 MCADOO AVENUE JERSEY CITY NJ 07305 | U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE, AS SUCCESSOR-IN-INTEREST TRUSTEE TO LASALLE BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR BEAR STEARNS ASSET BACKED SECURITIES I TRUST 2006-HE10, ASSET-BACKED CERTIFICATES SERIES 2006-HE10 | LYDIA R. BANTILAN, ET AL",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246607894",
+   "details": "",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "no tax record",
+   "first_seen": "2026-11-15T16:36+00:00",
+   "emailed": false,
+   "verified": false,
+   "notified_unverified": true
+  },
+  {
+   "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246607657",
+   "county": "Hudson",
+   "tags": [
+    "COMMERCIAL (tax class 4A)"
+   ],
+   "address": "821-823 SUMMIT AVENUE UNION CITY NJ 07087",
+   "summary": "View Details | 20054517 | 12/10/2026 | 821-823 SUMMIT AVENUE UNION CITY NJ 07087 | PARKE BANK | MOHAMMAD I. KANAN A/K/A MOHAMAD KANAN AND K&S SUPER STORE, INC., A NEW JERSEY CORPORATION ; WELLS FARGO BANK NA; STATE OF NEW JERSEY",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246607657",
+   "details": "Tax record: class 4A Commercial | 821-23 SUMMIT AVE, UNION CITY CITY | owner ? | bldg 1B-C-H | land 43X113 | 0.11 ac | built 1913",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:36+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
+   "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246607692",
+   "county": "Hudson",
+   "tags": [
+    "Type unknown - no tax record found (check manually)"
+   ],
+   "address": "5901 WEST SIDE AVENUE NORTH BERGEN NJ 07047",
+   "summary": "View Details | 20060604 | 12/10/2026 | 5901 WEST SIDE AVENUE NORTH BERGEN NJ 07047 | RL WEST SIDE NJ LLC | 5901 WEST AVE. PROPERTIES LLC",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246607692",
+   "details": "",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "no tax record",
+   "first_seen": "2026-11-15T16:36+00:00",
+   "emailed": false,
+   "verified": false,
+   "notified_unverified": true
+  },
+  {
+   "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246607834",
+   "county": "Hudson",
+   "tags": [
+    "Type unknown - no tax record found (check manually)"
+   ],
+   "address": "259 LIBERTY AVE UNIT 4 JERSEY CITY NJ 07307",
+   "summary": "View Details | 20063849 | 12/10/2026 | 259 LIBERTY AVE UNIT 4 JERSEY CITY NJ 07307 | U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS TRUSTEE FOR COLT 2024-INV3 MORTGAGE LOAN TRUST | 259 LIBERTY PROJECT LLC",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246607834",
+   "details": "",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "no tax record",
+   "first_seen": "2026-11-15T16:36+00:00",
+   "emailed": false,
+   "verified": false,
+   "notified_unverified": true
+  },
+  {
+   "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246607938",
+   "county": "Hudson",
+   "tags": [
+    "APARTMENT 5+ units (tax class 4C)"
+   ],
+   "address": "32 WEST 16TH STREET BAYONNE NJ 07002",
+   "summary": "View Details | 20064456 | 12/10/2026 | 32 WEST 16TH STREET BAYONNE NJ 07002 | WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE OF ECA AZ RESIDENTIAL TRUST - SERIES SA | 32 W 16 B NJ LLC; ET AL.",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246607938",
+   "details": "Tax record: class 4C Apartment (5+ units) | 32 W 16TH ST, BAYONNE CITY | owner ? | bldg 3S-F-A-6U-NH | land 25X163.17IRR | 0.00 ac | built 1910",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:36+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
+   "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246607954",
+   "county": "Hudson",
+   "tags": [
+    "Type unknown - no tax record found (check manually)"
+   ],
+   "address": "205 10TH STREET APARTMENT 2H AKA 205 TENTH ST. #2H JERSEY CITY NJ 07302",
+   "summary": "View Details | 20064496 | 12/10/2026 | 205 10TH STREET APARTMENT 2H AKA 205 TENTH ST. #2H JERSEY CITY NJ 07302 | FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE FOR FREDDIE MAC SLST 2022-1 PARTICIPATION INTEREST TRUST | FRANK ASANTE KISSI, ET AL",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246607954",
+   "details": "",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "no tax record",
+   "first_seen": "2026-11-15T16:36+00:00",
+   "emailed": false,
+   "verified": false,
+   "notified_unverified": true
+  },
+  {
+   "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246607957",
+   "county": "Hudson",
+   "tags": [
+    "POSSIBLE 4+ unit residential (tax record dwelling count 4 - verify)"
+   ],
+   "address": "545-547 9TH STREET UNION CITY NJ 07087",
+   "summary": "View Details | 20064526 | 12/10/2026 | 545-547 9TH STREET UNION CITY NJ 07087 | LOANDEPOT.COM, LLC | ORLANDO BOLANOS, ET AL.",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246607957",
+   "details": "Tax record: class 2 Residential (1-4 family) | 545-47 9TH ST, UNION CITY CITY | owner ? | bldg 2B-4U-H-8UG | land 61X90 IRR | 0.00 ac | built 1893",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:36+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
+   "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246607772",
+   "county": "Hudson",
+   "tags": [
+    "Type unknown - no tax record found (check manually)"
+   ],
+   "address": "15 NORTH STREET BAYONNE NJ 07002",
+   "summary": "View Details | 20063276 | 1/7/2027 | 15 NORTH STREET BAYONNE NJ 07002 | U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS INDENTURE TRUSTEE OF CIM TRUST 2023-R4 | DANIEL P. BOCK JR",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246607772",
+   "details": "",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "no tax record",
+   "first_seen": "2026-11-15T16:36+00:00",
+   "emailed": false,
+   "verified": false,
+   "notified_unverified": true
+  },
+  {
+   "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246607925",
+   "county": "Hudson",
+   "tags": [
+    "POSSIBLE 4+ unit residential (tax record dwelling count 4 - verify)"
+   ],
+   "address": "113 LINCOLN STREET JERSEY CITY NJ 07307",
+   "summary": "View Details | 20064227 | 1/7/2027 | 113 LINCOLN STREET JERSEY CITY NJ 07307 | U.S. BANK TRUST NATIONAL ASSOCIATION, AS TRUSTEE FOR LB-TREEHOUSE SERIES VI TRUST | 113 LINCOLN STREET LLC; ET AL.",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246607925",
+   "details": "Tax record: class 2 Residential (1-4 family) | 113 LINCOLN ST., JERSEY CITY CITY | owner ? | bldg 2S-F-4U-NH | land 25X100 AV. | 0.06 ac | built 1905",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:36+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
+   "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246607941",
+   "county": "Hudson",
+   "tags": [
+    "COMMERCIAL (tax class 4A)"
+   ],
+   "address": "90 HUDSON STREET JERSEY CITY NJ 07302",
+   "summary": "View Details | 20064464 | 1/7/2027 | 90 HUDSON STREET JERSEY CITY NJ 07302 | WILMINGTON TRUST, NATIONAL ASSOCIATION, AS TRUSTEE, FOR THE BENEFIT OF THE HOLDERS OF BENCHMARK 2018-B1 MORTGAGE TRUST COMMERCIAL MORTGAGE PASS-THROUGH CERTIFICATES, SERIES 2018-B1, BY AND THROUGH ITS SPECIAL SERVICER, LNR PARTNERS, LLC | 90 HUDSON WATERFRONT, LLC, AND SSC V, L.P.",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246607941",
+   "details": "Tax record: class 4A Commercial | 90 HUDSON STREET, JERSEY CITY CITY | owner ? | bldg 12S-CB-O-H | land 202.15X280 1.30 | 1.30 ac | built 1999",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:36+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
+   "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246607673",
+   "county": "Hudson",
+   "tags": [
+    "Type unknown - no tax record found (check manually)"
+   ],
+   "address": "700 10TH STREET UNIT 6 SECAUCUS NJ 07094",
+   "summary": "View Details | 20057516 | 2/4/2027 | 700 10TH STREET UNIT 6 SECAUCUS NJ 07094 | NEW MILLENNIUM BANK | BYUNG C. KIM A/K/A BYUNG KIM AND JIHEE KIM H/W, B C KIM ENTERPRISE LLC DBA BLEU ON BROAD BY ITS ASSIGNEE FOR THE BENEFIT OF CREDITORS MICHAEL S. KOPELMAN, STATE OF NEW JERSEY, AND FC MARKETPLACE, LLC",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246607673",
+   "details": "",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "no tax record",
+   "first_seen": "2026-11-15T16:36+00:00",
+   "emailed": false,
+   "verified": false,
+   "notified_unverified": true
+  },
+  {
+   "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246640070",
+   "county": "Passaic",
+   "tags": [
+    "INDUSTRIAL (tax class 4B)"
+   ],
+   "address": "157-171 3RD Avenue Paterson NJ 07514",
+   "summary": "View Details | F-26001478 | 12/15/2026 | TOWER DB XII TRUST 2022-1 | 3 EAST 26 HOLDINGS LLC, ET AL | 157-171 3RD Avenue Paterson NJ 07514",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246640070",
+   "details": "Tax record: class 4B Industrial | 157-171 3RD AVE, PATERSON CITY | owner ? | bldg 2 CB | land 99X200 | 0.45 ac | built ?",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:35+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
+   "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246640072",
+   "county": "Passaic",
+   "tags": [
+    "INDUSTRIAL (tax class 4B)"
+   ],
+   "address": "130-134 2nd Avenue Paterson NJ 07514",
+   "summary": "View Details | F-26001479 | 12/15/2026 | TOWER DB XII TRUST 2022-1 | 3 EAST 26 HOLDINGS LLC; DEUTSCHE BANK TRUST COMPANY AMERICAS; TL SIX, LLC; CITIZENS BANK, N.A.;LERMAN SANDERS REALTY CORP.; STATE OF NEW JERSEY; UNITED STATES OF AMERICA | 130-134 2nd Avenue Paterson NJ 07514",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246640072",
+   "details": "Tax record: class 4B Industrial | 130-134 2ND AVE, PATERSON CITY | owner ? | bldg 2B 1CB 1CB SS | land 400X200 IRR | 0.00 ac | built ?",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:35+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
+   "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246639926",
+   "county": "Passaic",
+   "tags": [
+    "VACANT LAND (tax class 1)"
+   ],
+   "address": "156-158 Fair Street Paterson NJ 07501",
+   "summary": "View Details | F-26001125 | 1/5/2027 | FANNIE MAE | 156-158 FAIR ST. HOLDINGS LLC, ET ALS | 156-158 Fair Street Paterson NJ 07501",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246639926",
+   "details": "Tax record: class 1 Vacant land | 156 FAIR ST, PATERSON CITY | owner ? | bldg NEW 12 APTS | land 25X100 | 0.06 ac | built ?",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:35+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
+   "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246639938",
+   "county": "Passaic",
+   "tags": [
+    "COMMERCIAL (tax class 4A)"
+   ],
+   "address": "642-646 Broadway Paterson NJ 07514",
+   "summary": "View Details | F-26001127 | 1/5/2027 | FANNIE MAE | UNITED ASSETS MANAGEMENT III LLC, ET ALS | 642-646 Broadway Paterson NJ 07514",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246639938",
+   "details": "Tax record: class 4A Commercial | 642-648 BROADWAY, PATERSON CITY | owner ? | bldg 2  S 2G | land 87X104 | 0.21 ac | built ?",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:35+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
+   "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246639943",
+   "county": "Passaic",
+   "tags": [
+    "COMMERCIAL (tax class 4A)"
+   ],
+   "address": "571-573 East 25th Street Paterson NJ 07514",
+   "summary": "View Details | F-26001127 | 1/5/2027 | FANNIE MAE | UNITED ASSETS MANAGEMENT III LLC, ET ALS | 571-573 East 25th Street Paterson NJ 07514",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246639943",
+   "details": "Tax record: class 4A Commercial | 571-573 E 25TH ST, PATERSON CITY | owner ? | bldg 2.5F 2G | land 50X100 | 0.11 ac | built ?",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:35+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
+   "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246639948",
+   "county": "Passaic",
+   "tags": [
+    "COMMERCIAL (tax class 4A)"
+   ],
+   "address": "320 Broadway Paterson NJ 07501",
+   "summary": "View Details | F-26001127 | 1/5/2027 | FANNIE MAE | UNITED ASSETS MANAGEMENT III LLC, ET ALS | 320 Broadway Paterson NJ 07501",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246639948",
+   "details": "Tax record: class 4A Commercial | 320 BROADWAY, PATERSON CITY | owner ? | bldg 2.5 F | land 37X101 | 0.09 ac | built 1898",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:35+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
+   "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246639975",
+   "county": "Passaic",
+   "tags": [
+    "Type unknown - no tax record found (check manually)"
+   ],
+   "address": "285-287 Mount Prospect Avenue Clifton NJ 07012",
+   "summary": "View Details | F-26001164 | 1/5/2027 | LOAN FUNDER LLC, SERIES 41744 | ALL INSTALLERS INC., ET ALS | 285-287 Mount Prospect Avenue Clifton NJ 07012",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246639975",
+   "details": "",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "no tax record",
+   "first_seen": "2026-11-15T16:35+00:00",
+   "emailed": false,
+   "verified": false,
+   "notified_unverified": true
+  },
+  {
+   "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246640079",
+   "county": "Passaic",
+   "tags": [
+    "Type unknown - no tax record found (check manually)"
+   ],
+   "address": "",
+   "summary": "View Details | F-26001565 | 1/12/2027 | FEDERAL HOME LOAN MORTGAGE CORPORATION, AS TRUSTEE FOR FREDDIE MAC SEASONED LOANS STRUCTURED TRANSACTION TRUST, SERIES 2021-1 | JOHN C. NELSON, ET ALS. | ",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246640079",
+   "details": "",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "no tax record",
+   "first_seen": "2026-11-15T16:35+00:00",
+   "emailed": false,
+   "verified": false,
+   "notified_unverified": true
+  },
+  {
+   "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246640091",
+   "county": "Passaic",
+   "tags": [
+    "COMMERCIAL (tax class 4A)"
+   ],
+   "address": "312 OAK RIDGE Road West Milford NJ 07480",
+   "summary": "View Details | F-26001600 | 1/19/2027 | ATCF II NJ, LLC TAX SERV CUSTODIAN | COASTAL PROPERTY MANAGEMENT INC, ET AL | 312 OAK RIDGE Road West Milford NJ 07480",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246640091",
+   "details": "Tax record: class 4A Commercial | 312 OAK RIDGE RD, WEST MILFORD TWP | owner ? | bldg None | land .255 AC | 0.26 ac | built 1940",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:35+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
+   "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246640093",
+   "county": "Passaic",
+   "tags": [
+    "Type unknown - no tax record found (check manually)"
+   ],
+   "address": "",
+   "summary": "View Details | F-26001617 | 1/19/2027 | GREAT LAKE FUNDING I TRUST | MICHAEL ISAACS MONTOYA, ET AL | ",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246640093",
+   "details": "",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "no tax record",
+   "first_seen": "2026-11-15T16:35+00:00",
+   "emailed": false,
+   "verified": false,
+   "notified_unverified": true
+  },
+  {
+   "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246640096",
+   "county": "Passaic",
+   "tags": [
+    "4+ UNIT residential (4 units per record/description)"
+   ],
+   "address": "390 Highland Avenue Passaic NJ 07055",
+   "summary": "View Details | F-26001635 | 1/19/2027 | JAZ INVESTMENTS LLC | AG PROPERTIES INVESTMENT, LLC | 390 Highland Avenue Passaic NJ 07055",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246640096",
+   "details": "Tax record: class 2 Residential (1-4 family) | 390 HIGHLAND AVENUE, PASSAIC CITY | owner ? | bldg 2S-4FAMILY | land 50X105 | 0.12 ac | built 1930",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:35+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
+   "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246639706",
+   "county": "Passaic",
+   "tags": [
+    "COMMERCIAL (tax class 4A)"
+   ],
+   "address": "429 Getty Avenue Clifton NJ 07011",
+   "summary": "View Details | F-26000449 | 2/16/2027 | AVATAR REIT I LLC | 429 GETTY LLC AND STATE OF NEW JERSEY | 429 Getty Avenue Clifton NJ 07011",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246639706",
+   "details": "Tax record: class 4A Commercial | 429 GETTY AVE, CLIFTON CITY | owner ? | bldg None | land 100X100 | 0.23 ac | built 1954",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:35+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
+   "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246639732",
+   "county": "Passaic",
+   "tags": [
+    "COMMERCIAL (tax class 4A)"
+   ],
+   "address": "424 6TH Avenue Paterson NJ 07514",
+   "summary": "View Details | F-26000535 | 2/16/2027 | CAPITAL, LLC | RAMON E RAMIREZ, ET ALS. | 424 6TH Avenue Paterson NJ 07514",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246639732",
+   "details": "Tax record: class 4A Commercial | 424 6TH AVE, PATERSON CITY | owner ? | bldg 2  F | land 25X100 | 0.06 ac | built 1898",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:35+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
+   "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246640152",
+   "county": "Passaic",
+   "tags": [
+    "VACANT LAND (tax class 1)"
+   ],
+   "address": "424 East 18th Street Paterson NJ 07524",
+   "summary": "View Details | F-26001807 | 2/23/2027 | WILMINGTON SAVINGS FUND SOCIETY FSB, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS OWNER TRUSTEE FOR CSMC 2022-NQM5 TRUST | BEST INVESTMENT PROPERTIES LLC ET ALS | 424 East 18th Street Paterson NJ 07524",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246640152",
+   "details": "Tax record: class 1 Vacant land | 424 E 18TH ST, PATERSON CITY | owner ? | bldg None | land 25X121 | 0.07 ac | built ?",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:35+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
+   "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246640155",
+   "county": "Passaic",
+   "tags": [
+    "Type unknown - no tax record found (check manually)"
+   ],
+   "address": "11 Hi Lo Terrace Newfoundland NJ 07435",
+   "summary": "View Details | F-26001832 | 2/23/2027 | SELECT PORTFOLIO SERVICING INC | JONATHAN VARELA; LINDA VARELA; 11 HI LO LLC; STATE OF NEW JERSEY | 11 Hi Lo Terrace Newfoundland NJ 07435",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246640155",
+   "details": "",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "no tax record",
+   "first_seen": "2026-11-15T16:35+00:00",
+   "emailed": false,
+   "verified": false,
+   "notified_unverified": true
+  },
+  {
+   "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246640169",
+   "county": "Passaic",
+   "tags": [
+    "COMMERCIAL (tax class 4A)"
+   ],
+   "address": "326 Parker Avenue Clifton NJ 07011",
+   "summary": "View Details | F-26001900 | 3/9/2027 | FIRST BANK | 326 PARKER AVE HOLDINGS LLC; BLUE ONYX MANAGEMENT LLC | 326 Parker Avenue Clifton NJ 07011",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246640169",
+   "details": "Tax record: class 4A Commercial | 326 PARKER AVE, CLIFTON CITY | owner ? | bldg None | land 198X35 | 0.16 ac | built 1924",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:35+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
+   "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246607671",
+   "county": "Hudson",
+   "tags": [
+    "COMMERCIAL (tax class 4A)"
+   ],
+   "address": "207 FIFTEENTH STREET UNIT 52 JERSEY CITY NJ 07311",
+   "summary": "View Details | 20056787 | 11/19/2026 | 207 FIFTEENTH STREET UNIT 52 JERSEY CITY NJ 07311 | U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCAF ACQUISITION TRUST | ALTAGRACIA MATOS, ET AL",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246607671",
+   "details": "Tax record: class 4A Commercial | 203 FIFTEENTH ST., JERSEY CITY CITY | owner ? | bldg PAVED LOT | land 25X100 | 0.06 ac | built ?",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:35+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
+   "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246607695",
+   "county": "Hudson",
+   "tags": [
+    "COMMERCIAL (tax class 4A)"
+   ],
+   "address": "402 PACIFIC AVENUE JERSEY CITY NJ 07304",
+   "summary": "View Details | 20061009 | 11/19/2026 | 402 PACIFIC AVENUE JERSEY CITY NJ 07304 | U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE OR VELOCITY COMMERCIAL CAPITAL LOAN TRUST 2024-1 | GOOD WILL ASSET LIMITED LIABILITY COMPANY, ET AL.",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246607695",
+   "details": "Tax record: class 4A Commercial | 402 PACIFIC AVE., JERSEY CITY CITY | owner ? | bldg 2S-B-C-1U-H | land 25X100 | 0.06 ac | built ?",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:35+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
+   "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246607787",
+   "county": "Hudson",
+   "tags": [
+    "Type unknown - no tax record found (check manually)"
+   ],
+   "address": "71 MARTIN LUTHER KING DRIVE JERSEY CITY NJ 07305",
+   "summary": "View Details | 20063389 | 11/19/2026 | 71 MARTIN LUTHER KING DRIVE JERSEY CITY NJ 07305 | WILMINGTON SAVINGS FUND SOCIETY, FSB, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR VERUS SECURITIATION TRUST 2021-7 | 71-309 JACKSON HILL LLC; THOMAS TERRELL HURLEY; HANRAN HOMES LLC",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246607787",
+   "details": "",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "no tax record",
+   "first_seen": "2026-11-15T16:35+00:00",
+   "emailed": false,
+   "verified": false,
+   "notified_unverified": true
+  },
+  {
+   "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246607812",
+   "county": "Hudson",
+   "tags": [
+    "Type unknown - no tax record found (check manually)"
+   ],
+   "address": "332 5TH STREET JERSEY CITY NJ 07302",
+   "summary": "View Details | 20063662 | 11/19/2026 | 332 5TH STREET JERSEY CITY NJ 07302 | U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY, BUT SOLELY AS TRUSTEE ON BEHALF OF FINANCE OF AMERICA SELECT MASTER TRUST | HOWELL WAYANS, HIS/HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, HERS, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; DIEDRA WAYANS-BENSON, INDIVIDUALLY AND AS ADMINISTRATRIX OF THE ESTATE OF HOWELL WAYANS; MARLON WAYANS; KEENEN IVORY WAYANS; MRS. WAYANS, SPOUSE OF KEENEN IVORY WAYANS; DAMON WAYANS; KIMBERLY WAYANS; ELVIRA WAYANS; MRS. WAYANS, SPOUSE OF ELVIRA WAYANS; NADIA WAYANS; MR. WAYANS, SPOUSE OF NADIA WAYANS; DEVONNE CHAUNTE WAYANS; MR. WAYANS, SPOUSE OF DEVONNE CHAUNTE WAYANS; SHAWN WAYANS; DWAYNE WAYANS HIS/HER HEIRS, DEVISEES AND PERSONAL REPRESENTATIVES AND HIS, HERS, THEIR OR ANY OF THEIR SUCCESSORS IN RIGHT, TITLE AND INTEREST; DWAYNE WAYANS, JR.; CARLA WAYANS; STATE OF NEW JERSEY; UNITED STATES OF AMERICA",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246607812",
+   "details": "",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "no tax record",
+   "first_seen": "2026-11-15T16:35+00:00",
+   "emailed": false,
+   "verified": false,
+   "notified_unverified": true
+  },
+  {
+   "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246607815",
+   "county": "Hudson",
+   "tags": [
+    "POSSIBLE 4+ unit residential (tax record dwelling count 4 - verify)"
+   ],
+   "address": "619 37TH STREET UNION CITY NJ 07087",
+   "summary": "View Details | 20063688 | 11/19/2026 | 619 37TH STREET UNION CITY NJ 07087 | MORRIS MOTORS, INC. | JOHANNA VELAZQUEZ",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246607815",
+   "details": "Tax record: class 2 Residential (1-4 family) | 619 37TH ST, UNION CITY CITY | owner ? | bldg 2F-4U-H | land 25X75 | 0.04 ac | built 1700",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:35+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
+   "id": "Bergen:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246608477",
+   "county": "Bergen",
+   "tags": [
+    "COMMERCIAL (tax class 4A)"
+   ],
+   "address": "164 FRANKLIN TURNPIKE MAHWAH NJ 07430",
+   "summary": "View Details | F-26003038 | 12/11/2026 | M&T BANK M&T | 2MT LLC, HAROLD M.TIMPONE, MAUREEN A. TIMPONE AND SERVICES ULIMED ENTERPRISES, INC | 164 FRANKLIN TURNPIKE MAHWAH NJ 07430",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246608477",
+   "details": "Tax record: class 4A Commercial | 164 FRANKLIN TURNPIKE, MAHWAH TWP | owner ? | bldg None | land 100X193 2LT | 0.44 ac | built 1985",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:34+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
+   "id": "Bergen:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246608487",
+   "county": "Bergen",
+   "tags": [
+    "COMMERCIAL (tax class 4A)"
+   ],
+   "address": "442 LEWANDOWSKI STREET LYNDHURST NJ 07071",
+   "summary": "View Details | F-26003166 | 12/18/2026 | THE BANK OF NEW YORK MELLON AS TRUSTEE FOR THE ABFS MORTGAGE LOAN TRUST 2003 2 MORTGAGE PASS THROUGH CERTIFICATES SERIES 2003 2 | JOSEPH A DOBROWOLSKI | 442 LEWANDOWSKI STREET LYNDHURST NJ 07071",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246608487",
+   "details": "Tax record: class 4A Commercial | 442 LEWANDOWSKI ST, LYNDHURST TWP | owner ? | bldg 2SF | land 50X60 | 0.07 ac | built 1920",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:34+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
+   "id": "Bergen:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246608309",
+   "county": "Bergen",
+   "tags": [
+    "Type unknown - no tax record found (check manually)"
+   ],
+   "address": "12-75 GEORGE STREET FAIR LAWN NJ 07410",
+   "summary": "View Details | F-26001350 | 1/8/2027 | FIRST SAVINGS BANK | DOUGAN OUTDOOR MEDIA, LLC A/K/A DOUGAN OUTDOOR MEDIA LLC, SEAN DOUGAN, THOMAS A. DOUGAN, SHERI R. DOUGAN, ORADELL ANIMAL HOSPITAL | 12-75 GEORGE STREET FAIR LAWN NJ 07410",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246608309",
+   "details": "",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "no tax record",
+   "first_seen": "2026-11-15T16:34+00:00",
+   "emailed": false,
+   "verified": false,
+   "notified_unverified": true
+  },
+  {
+   "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246638867",
+   "county": "Passaic",
+   "tags": [
+    "VACANT LAND (tax class 1)"
+   ],
+   "address": "153-155 MADISON Avenue Paterson NJ 07524",
+   "summary": "View Details | F-25000489 | 11/17/2026 | DEUTSCHE BANK NATIONAL TRUST COMPANY, AS INDENTURE TRUSTEE FOR AMERICAN HOME MORTGAGE INVESTMENT TRUST 2007-1 | JOSE TAVAREZ A/K/A JOSE TAVARES A/K/A JOSE PENA; JUAN GALVAN; MRS. GALVAN, SPOUSE OF JUAN GALVAN; ALERT AMBULANCE SERVICE; UNITED STATES OF AMERICA | 153-155 MADISON Avenue Paterson NJ 07524",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246638867",
+   "details": "Tax record: class 1 Vacant land | 153-155 MADISON AVE, PATERSON CITY | owner ? | bldg None | land 50 X 100 | 0.11 ac | built ?",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:34+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
+   "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246639869",
+   "county": "Passaic",
+   "tags": [
+    "Type unknown - no tax record found (check manually)"
+   ],
+   "address": "680 BROADWAY UNIT 1A Paterson NJ 07515",
+   "summary": "View Details | F-26000988 | 11/17/2026 | PEOPLES SECURITY BANK & TRUST COMPANY | YEC CONSULTING, LLC | 680 BROADWAY UNIT 1A Paterson NJ 07515",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246639869",
+   "details": "",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "no tax record",
+   "first_seen": "2026-11-15T16:34+00:00",
+   "emailed": false,
+   "verified": false,
+   "notified_unverified": true
+  },
+  {
+   "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246640032",
+   "county": "Passaic",
+   "tags": [
+    "4+ UNIT residential (35 units per record/description)"
+   ],
+   "address": "353-359 Marshall Street Also known as 353-359 Marshall Street Unit 1d, Also known as 353-359 Marshall Street Unit 4 Paterson NJ 07503",
+   "summary": "View Details | F-26001338 | 11/17/2026 | U.S. BANK TRUST NATIONAL ASSOCIATION NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST | DOMINICK PASSIONE, ET ALS | 353-359 Marshall Street Also known as 353-359 Marshall Street Unit 1d, Also known as 353-359 Marshall Street Unit 4 Paterson NJ 07503",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246640032",
+   "details": "Tax record: class 2 Residential (1-4 family) | 353-359 MARSHALL ST, PATERSON CITY | owner ? | bldg None | land 100X100 | 0.23 ac | built ?",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:34+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
+   "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246640044",
+   "county": "Passaic",
+   "tags": [
+    "Type unknown - no tax record found (check manually)"
+   ],
+   "address": "481 Brook Ave. Passaic NJ 07055",
+   "summary": "View Details | F-26001381 | 12/1/2026 | NEWREZ LLC DBA  SHELLPOINT MORTGAGE SERVICING | CYNTHIA A. BRIZZI ET ALS | 481 Brook Ave. Passaic NJ 07055",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246640044",
+   "details": "",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "no tax record",
+   "first_seen": "2026-11-15T16:34+00:00",
+   "emailed": false,
+   "verified": false,
+   "notified_unverified": true
+  },
+  {
+   "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246639033",
+   "county": "Passaic",
+   "tags": [
+    "POSSIBLE 4+ unit residential (tax record dwelling count 94 - verify)"
+   ],
+   "address": "22 LIVINGSTON Street Clifton NJ 07013",
+   "summary": "View Details | F-25001314 | 12/15/2026 | MOVEMENT MORTGAGE LLC | MEGAN ELIZABETH MCINERNEY ET ALS | 22 LIVINGSTON Street Clifton NJ 07013",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246639033",
+   "details": "Tax record: class 2 Residential (1-4 family) | 22 LIVINGSTON ST, CLIFTON CITY | owner ? | bldg None | land 50X100 | 0.11 ac | built 1947",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:34+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
+   "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246639878",
+   "county": "Passaic",
+   "tags": [
+    "Type unknown - no tax record found (check manually)"
+   ],
+   "address": "610 East 26TH Street 608 - 610 E 26TH STREET Paterson NJ 07504",
+   "summary": "View Details | F-26001020 | 12/15/2026 | BANK OF AMERICA N.A. | BETTY J. NAWYN ET ALS | 610 East 26TH Street 608 - 610 E 26TH STREET Paterson NJ 07504",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246639878",
+   "details": "",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "no tax record",
+   "first_seen": "2026-11-15T16:34+00:00",
+   "emailed": false,
+   "verified": false,
+   "notified_unverified": true
+  },
+  {
+   "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246597337",
+   "county": "Essex",
+   "tags": [
+    "4+ UNIT residential (4 units per record/description)"
+   ],
+   "address": "436 14TH AVE IRVINGTON NJ 07111",
+   "summary": "View Details | F-26003886 | 12/15/2026 | PENNYMAC LOAN SERVICES, LLC | DERRICK MAGWOOD, ET. AL. | 436 14TH AVE IRVINGTON NJ 07111",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246597337",
+   "details": "Tax record: class 2 Residential (1-4 family) | 436 14TH AVE., IRVINGTON TWP | owner ? | bldg 4 FAM | land 33.33 X 124 | 0.09 ac | built 1924",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:33+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
+   "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246597339",
+   "county": "Essex",
+   "tags": [
+    "COMMERCIAL (tax class 4A)"
+   ],
+   "address": "5 MCKINLEY AVENUE WEST ORANGE NJ 07052",
+   "summary": "View Details | F-26003890 | 12/15/2026 | MIDFIRST BANK | RIGOBERTO LEMUS; ET AL. | 5 MCKINLEY AVENUE WEST ORANGE NJ 07052",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246597339",
+   "details": "Tax record: class 4A Commercial | 340 MAIN STREET, WEST ORANGE TWP | owner ? | bldg 2SS3G | land 140X100-68X40-80X100 | 0.32 ac | built 1936",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:33+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
+   "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246597432",
+   "county": "Essex",
+   "tags": [
+    "Type unknown - no tax record found (check manually)"
+   ],
+   "address": "83-89 ROOSEVELT AVENUE BELLEVILLE NJ 07109",
+   "summary": "View Details | F-26004649 | 12/15/2026 | FINWISE BANK | 83-89 ROOSEVELT AVE LLC; ET AL. | 83-89 ROOSEVELT AVENUE BELLEVILLE NJ 07109",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246597432",
+   "details": "",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "no tax record",
+   "first_seen": "2026-11-15T16:33+00:00",
+   "emailed": false,
+   "verified": false,
+   "notified_unverified": true
+  },
+  {
+   "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246597310",
+   "county": "Essex",
+   "tags": [
+    "COMMERCIAL (tax class 4A)"
+   ],
+   "address": "676-678 SPRINGFIELD AVE NEWARK NJ 07103",
+   "summary": "View Details | F-26003430 | 1/5/2027 | U.S. BANK TRUST COMPANY, NATIONAL ASSOCIATION, AS TRUSTEE FOR VELOCITY COMMERICAL CAPITAL LOAN TRUST 2025-2 | NWK HOLDINGS LLC, A NEW JERSEY LIMITED LIABILITY COMPANY, ET. ALS. | 676-678 SPRINGFIELD AVE NEWARK NJ 07103",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246597310",
+   "details": "Tax record: class 4A Commercial | 676-678 SPRINGFIELD AVE, NEWARK CITY | owner ? | bldg 2SB | land 41X50 | 0.05 ac | built ?",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:33+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
+   "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246597355",
+   "county": "Essex",
+   "tags": [
+    "COMMERCIAL (tax class 4A)"
+   ],
+   "address": "9 BROOKSIDE AVENUE IRVINGTON NJ 07111",
+   "summary": "View Details | F-26003970 | 1/5/2027 | TRYON STREET ACQUISITION TRUST I | 9 BROOKSIDE LLC; ET AL. | 9 BROOKSIDE AVENUE IRVINGTON NJ 07111",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246597355",
+   "details": "Tax record: class 4A Commercial | 9 BROOKSIDE AVE., IRVINGTON TWP | owner ? | bldg 1FAM/SHOP | land 50 X 95 | 0.11 ac | built ?",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:33+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
+   "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246597391",
+   "county": "Essex",
+   "tags": [
+    "Type unknown - no tax record found (check manually)"
+   ],
+   "address": "63 SOUTH ORANGE AVE NEWARK NJ 07103",
+   "summary": "View Details | F-26004212 | 1/5/2027 | WELLS FARGO BANK, N.A. | BETTY J. SMITH A/K/A BETTY SMITH; ET. AL. | 63 SOUTH ORANGE AVE NEWARK NJ 07103",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246597391",
+   "details": "",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "no tax record",
+   "first_seen": "2026-11-15T16:33+00:00",
+   "emailed": false,
+   "verified": false,
+   "notified_unverified": true
+  },
+  {
+   "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246597395",
+   "county": "Essex",
+   "tags": [
+    "Type unknown - no tax record found (check manually)"
+   ],
+   "address": "24 NORTH BURNETT STREET EAST ORANGE NJ 07017",
+   "summary": "View Details | F-26004245 | 1/5/2027 | HSBC BANK USA, NATIONAL ASSOCIATION, AS TRUSTEE FOR DEUTSCHE ALT-A SECURITIES MORTGAGE LOAN TRUST, SERIES 2007-1 | LORNA A. WOODHAM INDIVIDUALLY AND AS ADMINISTRATOR OF THE ESTATE OF KATHLEEN WEDDERBURN; ET. AL | 24 NORTH BURNETT STREET EAST ORANGE NJ 07017",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246597395",
+   "details": "",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "no tax record",
+   "first_seen": "2026-11-15T16:33+00:00",
+   "emailed": false,
+   "verified": false,
+   "notified_unverified": true
+  },
+  {
+   "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246597109",
+   "county": "Essex",
+   "tags": [
+    "COMMERCIAL (tax class 4A)"
+   ],
+   "address": "670 MT. PROSPECT AVENUE NEWARK NJ 07104",
+   "summary": "View Details | F-25000686 | 1/16/2027 | U.S. BANK NATIONAL ASSOCIATION, AS TRUSTEE FOR THE C-BASS MORTGAGE LOAN ASSET-BACKED CERTIFICATES, SERIES 2007-MX1 | DONNA BAZAN; ET AL. | 670 MT. PROSPECT AVENUE NEWARK NJ 07104",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246597109",
+   "details": "Tax record: class 4A Commercial | 670 MT PROSPECT AVE, NEWARK CITY | owner ? | bldg 3SF3UG | land 27X130 | 0.08 ac | built ?",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:33+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
+   "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246597380",
+   "county": "Essex",
+   "tags": [
+    "COMMERCIAL (tax class 4A)"
+   ],
+   "address": "391 LAKESIDE AVE ORANGE NJ 07050",
+   "summary": "View Details | F-26004151 | 1/19/2027 | H&B PARTNERS, INC., A CORPORATION | 391 LAKESIDE AVE LLC, A NEW JERSEY LIMITED LIABILITY COMPANY; ET. AL. | 391 LAKESIDE AVE ORANGE NJ 07050",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246597380",
+   "details": "Tax record: class 4A Commercial | 391 LAKESIDE AVENUE, ORANGE CITY TWP | owner ? | bldg WHSE | land 30366 SF | 0.70 ac | built 1900",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:33+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
+   "id": "Bergen:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246608392",
+   "county": "Bergen",
+   "tags": [
+    "COMMERCIAL (tax class 4A)"
+   ],
+   "address": "232 OLD RIVER ROAD EDGEWATER NJ 07020",
+   "summary": "View Details | F-26001831 | 11/20/2026 | SOF OLD RIVER LLC | 232 OLD RIVER EDGE LLC, MENG LU, XIAOGANG FU, RUIHONG MENG, AND LI AN | 232 OLD RIVER ROAD EDGEWATER NJ 07020",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246608392",
+   "details": "Tax record: class 4A Commercial | 232 OLD RIVER RD, EDGEWATER BORO | owner ? | bldg COMMERCIAL | land 50X50 0.0574 | 0.06 ac | built 2021",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:33+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
+   "id": "Bergen:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246608288",
+   "county": "Bergen",
+   "tags": [
+    "Type unknown - no tax record found (check manually)"
+   ],
+   "address": "2-37 PLAZA ROAD FAIR LAWN NJ 07410",
+   "summary": "View Details | F-26001122 | 12/4/2026 | NATIONSTAR MORTGAGE LLC | HENRY J. NEUBERT AND LIZ NEUBERT | 2-37 PLAZA ROAD FAIR LAWN NJ 07410",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246608288",
+   "details": "",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "no tax record",
+   "first_seen": "2026-11-15T16:33+00:00",
+   "emailed": false,
+   "verified": false,
+   "notified_unverified": true
+  },
+  {
+   "id": "Bergen:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246608417",
+   "county": "Bergen",
+   "tags": [
+    "Type unknown - no tax record found (check manually)"
+   ],
+   "address": "342 ROUTE 17 HASBROUCK HEIGHTS NJ 07604",
+   "summary": "View Details | F-26002291 | 12/4/2026 | FIRST SAVINGS BANK | DOUGAN OUTDOOR MEDIA, LLC A/K/A DOUGAN OUTDOOR MEDIA LLC, SEAN DOUGAN, THOMAS A. DOUGAN, SHERI R. DOUGAN, ORADELL ANIMAL HOSPITAL | 342 ROUTE 17 HASBROUCK HEIGHTS NJ 07604",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246608417",
+   "details": "",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "no tax record",
+   "first_seen": "2026-11-15T16:33+00:00",
+   "emailed": false,
+   "verified": false,
+   "notified_unverified": true
+  },
+  {
+   "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246597164",
+   "county": "Essex",
+   "tags": [
+    "4+ UNIT residential (4 units per record/description)"
+   ],
+   "address": "9 BACHMAN PL IRVINGTON NJ 07111",
+   "summary": "View Details | F-26000485 | 12/1/2026 | THE BANK OF NEW YORK MELLON FKA THE BANK OF NEW YORK AS TRUSTEE FOR THE CERTIFICATEHOLDERS CWABS, INC., ASSET BACKED CERTIFICATES, SERIES 2005-BC1, | DANIEL MANU, ET. ALS | 9 BACHMAN PL IRVINGTON NJ 07111",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246597164",
+   "details": "Tax record: class 2 Residential (1-4 family) | 9-11 BACHMAN PL., IRVINGTON TWP | owner ? | bldg 4FAM | land 50 X 100 | 0.11 ac | built 1960",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:32+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
+   "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246597361",
+   "county": "Essex",
+   "tags": [
+    "COMMERCIAL (tax class 4A)"
+   ],
+   "address": "328 BELLEVILLE AVE BLOOMFIELD NJ 07003",
+   "summary": "View Details | F-26003997 | 12/1/2026 | UNITED WHOLESALE MORTGAGE, LLC | CORNERSTONE FAMILY GOD TRUST; ET. ALS. | 328 BELLEVILLE AVE BLOOMFIELD NJ 07003",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246597361",
+   "details": "Tax record: class 4A Commercial | 328 BELLEVILLE AVENUE, BLOOMFIELD TWP | owner ? | bldg OFFICE + 2 APTS | land 60 X 121 | 0.17 ac | built 1927",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:32+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
+   "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246597410",
+   "county": "Essex",
+   "tags": [
+    "COMMERCIAL (tax class 4A)"
+   ],
+   "address": "1221 BLOOMFIELD AVE FAIRFIELD NJ 07004",
+   "summary": "View Details | F-26004341 | 12/1/2026 | WILMINGTON SAVINGS FUND SOCIETY, FSB. | 1221 BLOOMFIELD LLC; ET. AL. | 1221 BLOOMFIELD AVE FAIRFIELD NJ 07004",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246597410",
+   "details": "Tax record: class 4A Commercial | 1221 BLOOMFIELD AVENUE, FAIRFIELD TWP | owner ? | bldg 1SF-9271SF | land 1.7969 AC | 1.80 ac | built 1970",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:32+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
+   "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246597412",
+   "county": "Essex",
+   "tags": [
+    "POSSIBLE 4+ unit residential (tax record dwelling count 4 - verify)"
+   ],
+   "address": "357-359 WOODSIDE AVE NEWARK NJ 07104",
+   "summary": "View Details | F-26004358 | 12/1/2026 | U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST | FERNANDO SOLARES; ET. ALS. | 357-359 WOODSIDE AVE NEWARK NJ 07104",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246597412",
+   "details": "Tax record: class 2 Residential (1-4 family) | 357-359 WOODSIDE AVE, NEWARK CITY | owner ? | bldg 2.5SF3UG. | land 37.6X122.6 | 0.11 ac | built 1913",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:32+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
+   "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246597414",
+   "county": "Essex",
+   "tags": [
+    "POSSIBLE 4+ unit residential (tax record dwelling count 4 - verify)"
+   ],
+   "address": "44-46 LENTZ AVENUE NEWARK NJ 07105",
+   "summary": "View Details | F-26004386 | 12/1/2026 | CITIBANK, N.A., NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS DELAWARE TRUSTEE OF J.P. MORGAN TRUST 2025-VIS3 | 44 LENTZ AVE LLC; ET AL. | 44-46 LENTZ AVENUE NEWARK NJ 07105",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246597414",
+   "details": "Tax record: class 2 Residential (1-4 family) | 44-46 LENTZ AVE, NEWARK CITY | owner ? | bldg 2SF | land 50X71.5 | 0.08 ac | built 1910",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:32+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
+   "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246597251",
+   "county": "Essex",
+   "tags": [
+    "POSSIBLE 4+ unit residential (tax record dwelling count 4 - verify)"
+   ],
+   "address": "120-122 FABYAN PLACE NEWARK NJ 07112",
+   "summary": "View Details | F-26002518 | 12/15/2026 | NORTHPOINTE BANK | TATIANA DOUYON, ET. AL | 120-122 FABYAN PLACE NEWARK NJ 07112",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246597251",
+   "details": "Tax record: class 2 Residential (1-4 family) | 120-122 FABYAN PL, NEWARK CITY | owner ? | bldg 2SF | land 35X100 | 0.08 ac | built 1920",
+   "map": "",
+   "upset": null,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "ratio table unavailable",
+   "first_seen": "2026-11-15T16:32+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
    "id": "Morris:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246390360",
    "county": "Morris",
    "tags": [
@@ -16,7 +1276,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:45+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -36,7 +1296,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:43+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -56,7 +1316,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:43+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -78,7 +1338,7 @@
    "first_seen": "2026-11-15T12:43+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Union:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246389519",
@@ -96,7 +1356,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:43+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -116,7 +1376,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:42+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -136,7 +1396,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:42+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -158,7 +1418,7 @@
    "first_seen": "2026-11-15T12:42+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246347453",
@@ -178,7 +1438,7 @@
    "first_seen": "2026-11-15T12:42+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246347456",
@@ -196,7 +1456,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:42+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -218,7 +1478,7 @@
    "first_seen": "2026-11-15T12:42+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246347291",
@@ -236,7 +1496,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:42+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -258,7 +1518,7 @@
    "first_seen": "2026-11-15T12:42+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246347476",
@@ -278,7 +1538,7 @@
    "first_seen": "2026-11-15T12:42+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246347569",
@@ -296,7 +1556,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:42+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -318,7 +1578,7 @@
    "first_seen": "2026-11-15T12:42+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246347589",
@@ -336,7 +1596,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:42+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -358,7 +1618,7 @@
    "first_seen": "2026-11-15T12:42+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246347555",
@@ -376,7 +1636,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:42+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -396,7 +1656,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:42+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -418,7 +1678,7 @@
    "first_seen": "2026-11-15T12:42+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246391009",
@@ -438,7 +1698,7 @@
    "first_seen": "2026-11-15T12:41+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246390451",
@@ -456,7 +1716,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:41+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -478,7 +1738,7 @@
    "first_seen": "2026-11-15T12:41+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246391027",
@@ -496,7 +1756,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:41+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -516,7 +1776,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:41+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -536,7 +1796,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:41+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -556,7 +1816,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:41+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -576,7 +1836,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:41+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -596,7 +1856,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:41+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -618,7 +1878,7 @@
    "first_seen": "2026-11-15T12:41+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246391033",
@@ -638,7 +1898,7 @@
    "first_seen": "2026-11-15T12:41+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246391041",
@@ -656,7 +1916,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:41+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -678,7 +1938,7 @@
    "first_seen": "2026-11-15T12:41+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246391045",
@@ -696,7 +1956,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:41+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -716,7 +1976,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:41+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -736,7 +1996,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:41+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -756,7 +2016,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:41+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -778,7 +2038,7 @@
    "first_seen": "2026-11-15T12:41+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246391095",
@@ -796,7 +2056,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:41+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -816,7 +2076,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:40+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -836,7 +2096,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:40+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -856,7 +2116,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:40+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -878,7 +2138,7 @@
    "first_seen": "2026-11-15T12:40+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Bergen:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246349352",
@@ -898,7 +2158,7 @@
    "first_seen": "2026-11-15T12:40+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Bergen:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246349468",
@@ -916,7 +2176,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:40+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -936,7 +2196,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:40+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -958,7 +2218,7 @@
    "first_seen": "2026-11-15T12:40+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246390363",
@@ -976,7 +2236,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:40+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -998,7 +2258,7 @@
    "first_seen": "2026-11-15T12:40+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246391001",
@@ -1016,7 +2276,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:40+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -1036,7 +2296,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:39+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -1056,7 +2316,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:39+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -1076,7 +2336,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:39+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -1096,7 +2356,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:39+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -1116,7 +2376,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:39+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -1138,7 +2398,7 @@
    "first_seen": "2026-11-15T12:39+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246338620",
@@ -1156,7 +2416,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:39+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -1176,7 +2436,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:39+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -1198,7 +2458,7 @@
    "first_seen": "2026-11-15T12:39+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246338705",
@@ -1218,7 +2478,7 @@
    "first_seen": "2026-11-15T12:39+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246338449",
@@ -1236,7 +2496,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:38+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -1256,7 +2516,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:38+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -1276,7 +2536,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T12:38+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -1296,7 +2556,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:50+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -1316,7 +2576,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:50+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -1338,7 +2598,7 @@
    "first_seen": "2026-11-15T08:50+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Union:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246146199",
@@ -1356,7 +2616,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:50+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -1378,7 +2638,7 @@
    "first_seen": "2026-11-15T08:49+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246095262",
@@ -1398,7 +2658,7 @@
    "first_seen": "2026-11-15T08:49+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246095269",
@@ -1416,7 +2676,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:49+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -1438,7 +2698,7 @@
    "first_seen": "2026-11-15T08:49+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246094977",
@@ -1456,7 +2716,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:49+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -1478,7 +2738,7 @@
    "first_seen": "2026-11-15T08:49+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246095327",
@@ -1498,7 +2758,7 @@
    "first_seen": "2026-11-15T08:49+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246095579",
@@ -1516,7 +2776,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:49+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -1538,7 +2798,7 @@
    "first_seen": "2026-11-15T08:49+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246095600",
@@ -1556,7 +2816,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:49+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -1578,7 +2838,7 @@
    "first_seen": "2026-11-15T08:49+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246095565",
@@ -1596,7 +2856,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:49+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -1616,7 +2876,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:49+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -1638,7 +2898,7 @@
    "first_seen": "2026-11-15T08:49+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246137361",
@@ -1656,7 +2916,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:48+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -1678,7 +2938,7 @@
    "first_seen": "2026-11-15T08:48+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246137901",
@@ -1696,7 +2956,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:48+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -1716,7 +2976,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:48+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -1736,7 +2996,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:48+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -1756,7 +3016,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:48+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -1776,7 +3036,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:48+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -1796,7 +3056,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:48+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -1818,7 +3078,7 @@
    "first_seen": "2026-11-15T08:48+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246137907",
@@ -1838,7 +3098,7 @@
    "first_seen": "2026-11-15T08:48+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246137916",
@@ -1856,7 +3116,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:48+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -1878,7 +3138,7 @@
    "first_seen": "2026-11-15T08:48+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246137918",
@@ -1896,7 +3156,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:48+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -1916,7 +3176,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:48+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -1936,7 +3196,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:48+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -1956,7 +3216,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:48+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -1978,7 +3238,7 @@
    "first_seen": "2026-11-15T08:48+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246137970",
@@ -1996,7 +3256,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:48+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -2016,7 +3276,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:48+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -2036,7 +3296,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:48+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -2056,7 +3316,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:47+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -2078,7 +3338,7 @@
    "first_seen": "2026-11-15T08:47+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Bergen:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246096900",
@@ -2098,7 +3358,7 @@
    "first_seen": "2026-11-15T08:47+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Bergen:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246096960",
@@ -2116,7 +3376,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:47+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -2136,7 +3396,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:47+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -2158,7 +3418,7 @@
    "first_seen": "2026-11-15T08:47+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246137254",
@@ -2176,7 +3436,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:47+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -2198,7 +3458,7 @@
    "first_seen": "2026-11-15T08:47+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246137873",
@@ -2216,7 +3476,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:47+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -2238,7 +3498,7 @@
    "first_seen": "2026-11-15T08:47+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246084417",
@@ -2256,7 +3516,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:46+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -2276,7 +3536,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:46+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -2296,7 +3556,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:46+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -2318,7 +3578,7 @@
    "first_seen": "2026-11-15T08:46+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246084476",
@@ -2336,7 +3596,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:46+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -2356,7 +3616,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:46+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -2378,7 +3638,7 @@
    "first_seen": "2026-11-15T08:46+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246084561",
@@ -2398,7 +3658,7 @@
    "first_seen": "2026-11-15T08:46+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2246084275",
@@ -2416,7 +3676,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:46+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -2436,7 +3696,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:46+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -2456,7 +3716,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:45+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -2476,7 +3736,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:45+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -2496,7 +3756,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:45+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -2516,7 +3776,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:45+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -2536,7 +3796,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T08:45+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -2556,7 +3816,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:54+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -2578,7 +3838,7 @@
    "first_seen": "2026-11-15T04:51+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245832305",
@@ -2596,7 +3856,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:51+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -2618,7 +3878,7 @@
    "first_seen": "2026-11-15T04:51+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245832321",
@@ -2636,7 +3896,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:51+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -2658,7 +3918,7 @@
    "first_seen": "2026-11-15T04:51+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245832292",
@@ -2676,7 +3936,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:51+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -2696,7 +3956,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:51+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -2718,7 +3978,7 @@
    "first_seen": "2026-11-15T04:51+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Union:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245883680",
@@ -2736,7 +3996,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:51+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -2756,7 +4016,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:51+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -2778,7 +4038,7 @@
    "first_seen": "2026-11-15T04:51+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Union:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245883759",
@@ -2796,7 +4056,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:51+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -2818,7 +4078,7 @@
    "first_seen": "2026-11-15T04:50+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245875389",
@@ -2838,7 +4098,7 @@
    "first_seen": "2026-11-15T04:50+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245875397",
@@ -2856,7 +4116,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:50+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -2878,7 +4138,7 @@
    "first_seen": "2026-11-15T04:50+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245875402",
@@ -2896,7 +4156,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:50+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -2916,7 +4176,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:50+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -2936,7 +4196,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:50+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -2956,7 +4216,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:50+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -2978,7 +4238,7 @@
    "first_seen": "2026-11-15T04:50+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245875455",
@@ -2996,7 +4256,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:50+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -3016,7 +4276,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:50+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -3036,7 +4296,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:50+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -3058,7 +4318,7 @@
    "first_seen": "2026-11-15T04:50+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245832231",
@@ -3078,7 +4338,7 @@
    "first_seen": "2026-11-15T04:50+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245832235",
@@ -3096,7 +4356,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:50+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -3118,7 +4378,7 @@
    "first_seen": "2026-11-15T04:50+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245832089",
@@ -3136,7 +4396,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:50+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -3158,7 +4418,7 @@
    "first_seen": "2026-11-15T04:50+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Bergen:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245832949",
@@ -3176,7 +4436,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:49+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -3196,7 +4456,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:49+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -3218,7 +4478,7 @@
    "first_seen": "2026-11-15T04:49+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245874681",
@@ -3236,7 +4496,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:49+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -3258,7 +4518,7 @@
    "first_seen": "2026-11-15T04:49+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245875354",
@@ -3276,7 +4536,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:49+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -3298,7 +4558,7 @@
    "first_seen": "2026-11-15T04:49+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245874744",
@@ -3316,7 +4576,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:49+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -3338,7 +4598,7 @@
    "first_seen": "2026-11-15T04:49+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245875382",
@@ -3356,7 +4616,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:49+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -3376,7 +4636,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:49+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -3396,7 +4656,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:49+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -3416,7 +4676,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:49+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -3436,7 +4696,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:49+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -3456,7 +4716,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:49+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -3476,7 +4736,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:48+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -3498,7 +4758,7 @@
    "first_seen": "2026-11-15T04:48+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245820463",
@@ -3516,7 +4776,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:48+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -3536,7 +4796,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:48+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -3558,7 +4818,7 @@
    "first_seen": "2026-11-15T04:48+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245820548",
@@ -3578,7 +4838,7 @@
    "first_seen": "2026-11-15T04:48+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245820262",
@@ -3596,7 +4856,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:48+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -3616,7 +4876,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:48+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -3636,7 +4896,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:48+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -3658,7 +4918,7 @@
    "first_seen": "2026-11-15T04:48+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Bergen:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245832889",
@@ -3678,7 +4938,7 @@
    "first_seen": "2026-11-15T04:48+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245820317",
@@ -3696,7 +4956,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:47+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -3716,7 +4976,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:47+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -3736,7 +4996,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:47+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -3756,7 +5016,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:47+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -3776,7 +5036,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:47+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -3796,7 +5056,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:47+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -3816,7 +5076,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T04:47+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -3836,7 +5096,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:50+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -3858,7 +5118,7 @@
    "first_seen": "2026-11-15T00:48+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245564465",
@@ -3876,7 +5136,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:48+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -3898,7 +5158,7 @@
    "first_seen": "2026-11-15T00:48+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245564404",
@@ -3916,7 +5176,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:48+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -3936,7 +5196,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:48+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -3958,7 +5218,7 @@
    "first_seen": "2026-11-15T00:48+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Union:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245613397",
@@ -3976,7 +5236,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:48+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -3996,7 +5256,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:48+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -4018,7 +5278,7 @@
    "first_seen": "2026-11-15T00:48+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Union:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245613469",
@@ -4036,7 +5296,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:48+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -4056,7 +5316,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:47+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -4076,7 +5336,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:47+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -4098,7 +5358,7 @@
    "first_seen": "2026-11-15T00:47+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245610165",
@@ -4118,7 +5378,7 @@
    "first_seen": "2026-11-15T00:47+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245610169",
@@ -4136,7 +5396,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:47+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -4158,7 +5418,7 @@
    "first_seen": "2026-11-15T00:47+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245610171",
@@ -4176,7 +5436,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:47+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -4196,7 +5456,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:47+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -4216,7 +5476,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:47+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -4236,7 +5496,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:47+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -4258,7 +5518,7 @@
    "first_seen": "2026-11-15T00:47+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245610196",
@@ -4276,7 +5536,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:47+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -4296,7 +5556,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:47+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -4316,7 +5576,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:47+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -4338,7 +5598,7 @@
    "first_seen": "2026-11-15T00:47+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245564172",
@@ -4358,7 +5618,7 @@
    "first_seen": "2026-11-15T00:47+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245564179",
@@ -4376,7 +5636,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:47+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -4398,7 +5658,7 @@
    "first_seen": "2026-11-15T00:47+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245563857",
@@ -4416,7 +5676,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:47+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -4438,7 +5698,7 @@
    "first_seen": "2026-11-15T00:47+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245564232",
@@ -4458,7 +5718,7 @@
    "first_seen": "2026-11-15T00:47+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245564437",
@@ -4476,7 +5736,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:47+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -4498,7 +5758,7 @@
    "first_seen": "2026-11-15T00:46+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Bergen:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245566891",
@@ -4518,7 +5778,7 @@
    "first_seen": "2026-11-15T00:46+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Bergen:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245566951",
@@ -4536,7 +5796,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:46+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -4556,7 +5816,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:46+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -4578,7 +5838,7 @@
    "first_seen": "2026-11-15T00:46+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245609741",
@@ -4596,7 +5856,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:46+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -4618,7 +5878,7 @@
    "first_seen": "2026-11-15T00:46+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245610149",
@@ -4636,7 +5896,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:46+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -4658,7 +5918,7 @@
    "first_seen": "2026-11-15T00:46+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245609796",
@@ -4676,7 +5936,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:46+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -4698,7 +5958,7 @@
    "first_seen": "2026-11-15T00:46+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245610162",
@@ -4716,7 +5976,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:46+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -4736,7 +5996,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:46+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -4756,7 +6016,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:46+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -4776,7 +6036,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:46+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -4796,7 +6056,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:45+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -4816,7 +6076,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:45+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -4836,7 +6096,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:45+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -4856,7 +6116,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:45+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -4876,7 +6136,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:45+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -4896,7 +6156,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:45+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -4918,7 +6178,7 @@
    "first_seen": "2026-11-15T00:45+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245553256",
@@ -4936,7 +6196,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:45+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -4956,7 +6216,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:45+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -4978,7 +6238,7 @@
    "first_seen": "2026-11-15T00:45+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245553341",
@@ -4998,7 +6258,7 @@
    "first_seen": "2026-11-15T00:45+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245553055",
@@ -5016,7 +6276,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:45+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -5036,7 +6296,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:45+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -5056,7 +6316,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:45+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -5076,7 +6336,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:44+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -5096,7 +6356,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-15T00:44+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -5116,7 +6376,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:33+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -5136,7 +6396,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:33+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -5158,7 +6418,7 @@
    "first_seen": "2026-11-14T20:33+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Union:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245324718",
@@ -5176,7 +6436,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:33+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -5196,7 +6456,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:32+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -5218,7 +6478,7 @@
    "first_seen": "2026-11-14T20:32+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245326144",
@@ -5236,7 +6496,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:32+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -5256,7 +6516,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:32+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -5276,7 +6536,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:32+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -5298,7 +6558,7 @@
    "first_seen": "2026-11-14T20:32+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245291435",
@@ -5318,7 +6578,7 @@
    "first_seen": "2026-11-14T20:32+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245291439",
@@ -5336,7 +6596,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:32+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -5358,7 +6618,7 @@
    "first_seen": "2026-11-14T20:32+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245291193",
@@ -5376,7 +6636,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:32+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -5398,7 +6658,7 @@
    "first_seen": "2026-11-14T20:32+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245291487",
@@ -5418,7 +6678,7 @@
    "first_seen": "2026-11-14T20:32+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245291901",
@@ -5436,7 +6696,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:32+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -5458,7 +6718,7 @@
    "first_seen": "2026-11-14T20:32+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245291978",
@@ -5476,7 +6736,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:32+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -5498,7 +6758,7 @@
    "first_seen": "2026-11-14T20:32+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Hudson:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245291849",
@@ -5516,7 +6776,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:32+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -5536,7 +6796,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:32+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -5558,7 +6818,7 @@
    "first_seen": "2026-11-14T20:32+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Bergen:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245293374",
@@ -5578,7 +6838,7 @@
    "first_seen": "2026-11-14T20:31+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245325363",
@@ -5596,7 +6856,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:31+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -5618,7 +6878,7 @@
    "first_seen": "2026-11-14T20:31+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245326065",
@@ -5636,7 +6896,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:31+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -5658,7 +6918,7 @@
    "first_seen": "2026-11-14T20:31+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245325415",
@@ -5676,7 +6936,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:31+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -5698,7 +6958,7 @@
    "first_seen": "2026-11-14T20:31+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245326090",
@@ -5716,7 +6976,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:31+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -5736,7 +6996,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:31+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -5756,7 +7016,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:31+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -5776,7 +7036,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:31+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -5796,7 +7056,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:31+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -5816,7 +7076,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:31+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -5838,7 +7098,7 @@
    "first_seen": "2026-11-14T20:31+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245326096",
@@ -5858,7 +7118,7 @@
    "first_seen": "2026-11-14T20:31+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245326102",
@@ -5876,7 +7136,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:31+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -5898,7 +7158,7 @@
    "first_seen": "2026-11-14T20:31+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Passaic:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245326106",
@@ -5916,7 +7176,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:31+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -5936,7 +7196,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:31+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -5956,7 +7216,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:31+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -5978,7 +7238,7 @@
    "first_seen": "2026-11-14T20:30+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245280675",
@@ -5996,7 +7256,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:30+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -6016,7 +7276,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:30+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -6038,7 +7298,7 @@
    "first_seen": "2026-11-14T20:30+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245280760",
@@ -6058,7 +7318,7 @@
    "first_seen": "2026-11-14T20:30+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Essex:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245280474",
@@ -6076,7 +7336,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:30+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -6096,7 +7356,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:30+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -6116,7 +7376,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:30+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -6138,7 +7398,7 @@
    "first_seen": "2026-11-14T20:30+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Bergen:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245293525",
@@ -6158,7 +7418,7 @@
    "first_seen": "2026-11-14T20:30+00:00",
    "emailed": false,
    "verified": false,
-   "notified_unverified": false
+   "notified_unverified": true
   },
   {
    "id": "Bergen:https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2245293649",
@@ -6176,7 +7436,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:30+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -6196,7 +7456,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:30+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -6216,7 +7476,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:29+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -6236,7 +7496,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:29+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -6256,7 +7516,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:29+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -6276,7 +7536,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:29+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -6296,7 +7556,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:29+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -6316,7 +7576,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:29+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -6336,7 +7596,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:29+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -6356,7 +7616,7 @@
    "est_value": null,
    "value_note": "ratio table unavailable",
    "first_seen": "2026-11-14T20:29+00:00",
-   "emailed": false,
+   "emailed": true,
    "verified": true,
    "notified_unverified": false
   },
@@ -8881,7 +10141,17 @@
    "notified_unverified": false
   }
  ],
- "last_run": "2026-11-15T12:46+00:00",
- "last_errors": [],
+ "last_run": "2026-11-15T16:42+00:00",
+ "last_errors": [
+  "Morris 22 Little Doe Run Jefferson NJ 07438: Lake Hopatcong shoreline unavailable: Expecting value: line 1 column 1 (char 0)",
+  "Morris 25 Ellen Road Jefferson NJ 07849: Lake Hopatcong shoreline unavailable (OpenStreetMap servers unreachable this run)",
+  "Morris 627 Dorothy Lane Landing NJ 07850: Lake Hopatcong shoreline unavailable (OpenStreetMap servers unreachable this run)",
+  "Morris 25 1st Street Roxbury NJ 07847: Lake Hopatcong shoreline unavailable (OpenStreetMap servers unreachable this run)",
+  "Morris 4 Stuart Lane Jefferson NJ 07438: Lake Hopatcong shoreline unavailable (OpenStreetMap servers unreachable this run)",
+  "Morris 9 Nalron Drive Roxbury NJ: Lake Hopatcong shoreline unavailable (OpenStreetMap servers unreachable this run)",
+  "Morris 1 James Drive Mount Arlington NJ 07856: Lake Hopatcong shoreline unavailable (OpenStreetMap servers unreachable this run)",
+  "Morris 4 Alps Lane Lake Hopatcong NJ 07849: Lake Hopatcong shoreline unavailable (OpenStreetMap servers unreachable this run)",
+  "Morris 16 Commodore Drive Jefferson NJ 07849: Lake Hopatcong shoreline unavailable (OpenStreetMap servers unreachable this run)"
+ ],
  "excluded_last_run": {}
 }
