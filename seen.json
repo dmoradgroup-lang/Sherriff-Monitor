@@ -546,11 +546,17 @@
   "Sussex:26000485",
   "Sussex:26000487",
   "Union:CH-23001176",
+  "Union:CH-23001176:a5c3da",
   "Union:CH-24001452",
+  "Union:CH-24001452:803cb9",
   "Union:CH-25000849",
+  "Union:CH-25000849:47413d",
   "Union:CH-25001499",
+  "Union:CH-25001499:5d13eb",
   "Union:CH-25002036",
+  "Union:CH-25002036:e82e3d",
   "Union:CH-26000318",
+  "Union:CH-26000318:139127",
   "Union:CH-26000728",
   "Union:CH-26000819",
   "Union:CH-26001232",
@@ -1264,5 +1270,6 @@
   "Union:CH-26002620",
   "Union:CH-26002624",
   "Union:CH-26002628"
- ]
+ ],
+ "last_email": "2026-11-21T20:38+00:00"
 }
