@@ -1,6 +1,46 @@
 {
  "items": [
   {
+   "id": "Bergen:F-26003246",
+   "county": "Bergen",
+   "tags": [
+    "Type unknown - no tax record found (check manually)"
+   ],
+   "address": "2 HILLARD AVENUE EDGEWATER NJ 07020",
+   "summary": "F-26003246 | 1/8/2027 | TLOA MORTGAGE LLC | 2 HILLARD AVENUE LLC ET AL | 2 HILLARD AVENUE EDGEWATER NJ 07020",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2260190317",
+   "details": "",
+   "map": "",
+   "upset": 5219545.5,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "no tax record",
+   "first_seen": "2026-11-23T16:54+00:00",
+   "emailed": false,
+   "verified": false,
+   "notified_unverified": true
+  },
+  {
+   "id": "Bergen:F-26003252",
+   "county": "Bergen",
+   "tags": [
+    "VACANT LAND (tax class 1)"
+   ],
+   "address": "23 ROTH STREET ELMWOOD PARK NJ 07407",
+   "summary": "F-26003252 | 1/8/2027 | WELLS FARGO BANK, NATIONAL ASSOCIATION, SUCCESSOR BY  MERGER TO WELLS FARGO BANK MINNESOTA, NATIONALASSOCIATION, AS TRUSTEE F/K/ANORWEST BANK MINNESOTANATIONAL ASSOCIATION, AS, TRUSTEE FOR RENAISSANCE HEL TRUST 2004-2 | MICHELE VAN RYE, ET AL | 23 ROTH STREET ELMWOOD PARK NJ 07407",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2260190339",
+   "details": "Tax record: class 1 Vacant land | 23 ROTH STREET, ELMWOOD PARK BORO | owner ? | bldg None | land CONDO MOTHER LOT | 0.00 ac | built ?",
+   "map": "",
+   "upset": 139683.99,
+   "judgment": null,
+   "est_value": null,
+   "value_note": "no assessment on record",
+   "first_seen": "2026-11-23T16:54+00:00",
+   "emailed": true,
+   "verified": true,
+   "notified_unverified": false
+  },
+  {
    "id": "Union:CH-23001176:a5c3da",
    "county": "Union",
    "tags": [
@@ -1701,7 +1741,7 @@
    "notified_unverified": true
   }
  ],
- "last_run": "2026-11-23T13:06+00:00",
+ "last_run": "2026-11-23T16:58+00:00",
  "last_errors": [
   "Morris 22 Little Doe Run Jefferson NJ 07438: Lake Hopatcong shoreline unavailable: Expecting value: line 1 column 1 (char 0)",
   "Morris 25 Ellen Road Jefferson NJ 07849: Lake Hopatcong shoreline unavailable (OpenStreetMap servers unreachable this run)",
