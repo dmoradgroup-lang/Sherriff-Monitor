@@ -1,6 +1,66 @@
 {
  "items": [
   {
+   "id": "Hudson:3c6dc21e5209",
+   "county": "Hudson",
+   "tags": [
+    "Type unknown - no tax record found (check manually)"
+   ],
+   "address": "MATTIE O. WARREN-SIMMONS",
+   "summary": "20064925 | 1/7/2027 | 111 OAK STREET JERSEY CITY NJ 07304 | U.S. BANK TRUST NATIONAL ASSOCIATION, NOT IN ITS INDIVIDUAL CAPACITY BUT SOLELY AS OWNER TRUSTEE FOR RCF 2 ACQUISITION TRUST | MATTIE O. WARREN-SIMMONS",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2260773139",
+   "details": "",
+   "map": "",
+   "upset": 289233.85,
+   "judgment": 268687.25,
+   "est_value": null,
+   "value_note": "no tax record",
+   "first_seen": "2026-11-24T00:53+00:00",
+   "emailed": false,
+   "verified": false,
+   "notified_unverified": false
+  },
+  {
+   "id": "Hudson:96cf60746acb",
+   "county": "Hudson",
+   "tags": [
+    "Type unknown - no tax record found (check manually)"
+   ],
+   "address": "ARIS C. LABAN; MR. LABAN, HUSBAND OF ARIS C. LABAN",
+   "summary": "20064926 | 1/21/2027 | 47 E 36TH STREET BAYONNE NJ 07002 | NATIONSTAR MORTGAGE LLC | ARIS C. LABAN; MR. LABAN, HUSBAND OF ARIS C. LABAN",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2260773150",
+   "details": "",
+   "map": "",
+   "upset": 730819.01,
+   "judgment": 679095.6,
+   "est_value": null,
+   "value_note": "no tax record",
+   "first_seen": "2026-11-24T00:53+00:00",
+   "emailed": false,
+   "verified": false,
+   "notified_unverified": false
+  },
+  {
+   "id": "Hudson:ba453ba0ece0",
+   "county": "Hudson",
+   "tags": [
+    "Type unknown - no tax record found (check manually)"
+   ],
+   "address": "GLASSES GROUP LLC, ET AL.",
+   "summary": "20064927 | 1/21/2027 | 117 ATLANTIC STREET JERSEY CITY NJ 07304 | NEXTRES CAPITAL, LLC | GLASSES GROUP LLC, ET AL.",
+   "link": "https://salesweb.civilview.com/Sales/SaleDetails?PropertyId=2260773161",
+   "details": "",
+   "map": "",
+   "upset": null,
+   "judgment": 470511.72,
+   "est_value": null,
+   "value_note": "no tax record",
+   "first_seen": "2026-11-24T00:53+00:00",
+   "emailed": false,
+   "verified": false,
+   "notified_unverified": false
+  },
+  {
    "id": "Bergen:F-26003246",
    "county": "Bergen",
    "tags": [
@@ -1741,7 +1801,7 @@
    "notified_unverified": true
   }
  ],
- "last_run": "2026-11-23T20:49+00:00",
+ "last_run": "2026-11-24T00:57+00:00",
  "last_errors": [
   "Morris 22 Little Doe Run Jefferson NJ 07438: Lake Hopatcong shoreline unavailable: Expecting value: line 1 column 1 (char 0)",
   "Morris 25 Ellen Road Jefferson NJ 07849: Lake Hopatcong shoreline unavailable (OpenStreetMap servers unreachable this run)",
@@ -1752,7 +1812,10 @@
   "Morris 1 James Drive Mount Arlington NJ 07856: Lake Hopatcong shoreline unavailable (OpenStreetMap servers unreachable this run)",
   "Morris 4 Alps Lane Lake Hopatcong NJ 07849: Lake Hopatcong shoreline unavailable (OpenStreetMap servers unreachable this run)",
   "Morris 16 Commodore Drive Jefferson NJ 07849: Lake Hopatcong shoreline unavailable (OpenStreetMap servers unreachable this run)",
-  "Sussex 36 Skidmore Trail: Lake Hopatcong shoreline unavailable (OpenStreetMap servers unreachable this run)"
+  "Sussex 36 Skidmore Trail: Lake Hopatcong shoreline unavailable (OpenStreetMap servers unreachable this run)",
+  "...and 1 more"
  ],
- "excluded_last_run": {}
+ "excluded_last_run": {
+  "Bankruptcy": 1
+ }
 }
