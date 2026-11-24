@@ -1801,20 +1801,8 @@
    "notified_unverified": true
   }
  ],
- "last_run": "2026-11-24T00:57+00:00",
- "last_errors": [
-  "Morris 22 Little Doe Run Jefferson NJ 07438: Lake Hopatcong shoreline unavailable: Expecting value: line 1 column 1 (char 0)",
-  "Morris 25 Ellen Road Jefferson NJ 07849: Lake Hopatcong shoreline unavailable (OpenStreetMap servers unreachable this run)",
-  "Morris 627 Dorothy Lane Landing NJ 07850: Lake Hopatcong shoreline unavailable (OpenStreetMap servers unreachable this run)",
-  "Morris 25 1st Street Roxbury NJ 07847: Lake Hopatcong shoreline unavailable (OpenStreetMap servers unreachable this run)",
-  "Morris 4 Stuart Lane Jefferson NJ 07438: Lake Hopatcong shoreline unavailable (OpenStreetMap servers unreachable this run)",
-  "Morris 9 Nalron Drive Roxbury NJ: Lake Hopatcong shoreline unavailable (OpenStreetMap servers unreachable this run)",
-  "Morris 1 James Drive Mount Arlington NJ 07856: Lake Hopatcong shoreline unavailable (OpenStreetMap servers unreachable this run)",
-  "Morris 4 Alps Lane Lake Hopatcong NJ 07849: Lake Hopatcong shoreline unavailable (OpenStreetMap servers unreachable this run)",
-  "Morris 16 Commodore Drive Jefferson NJ 07849: Lake Hopatcong shoreline unavailable (OpenStreetMap servers unreachable this run)",
-  "Sussex 36 Skidmore Trail: Lake Hopatcong shoreline unavailable (OpenStreetMap servers unreachable this run)",
-  "...and 1 more"
- ],
+ "last_run": "2026-11-24T05:00+00:00",
+ "last_errors": [],
  "excluded_last_run": {
   "Bankruptcy": 1
  }
